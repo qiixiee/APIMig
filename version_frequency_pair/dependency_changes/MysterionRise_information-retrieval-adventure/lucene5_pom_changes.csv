@@ -1,0 +1,13 @@
+library,type,old_version,new_version,commit_date
+org.apache.solrsolr-solrj,"update","5.5.3","5.5.5",2018-12-18T11:53:01Z
+org.apache.solrsolr-solrj,"update","5.0.0","5.5.3",2016-12-01T21:18:54Z
+org.apache.lucenelucene-core,"update","5.5.3","5.5.5",2018-12-18T11:53:01Z
+org.apache.lucenelucene-core,"update","5.0.0","5.5.3",2016-12-01T21:18:54Z
+org.apache.solrsolr-core,"update","5.5.3","5.5.5",2018-12-18T11:53:01Z
+org.apache.solrsolr-core,"update","5.0.0","5.5.3",2016-12-01T21:18:54Z
+org.apache.solrsolr-test-framework,"update","5.5.3","5.5.5",2018-12-18T11:53:01Z
+org.apache.solrsolr-test-framework,"update","5.0.0","5.5.3",2016-12-01T21:18:54Z
+org.apache.lucenelucene-analyzers-common,"update","5.5.3","5.5.5",2018-12-18T11:53:01Z
+org.apache.lucenelucene-analyzers-common,"update","5.0.0","5.5.3",2016-12-01T21:18:54Z
+org.apache.lucenelucene-analyzers-icu,"update","5.5.3","5.5.5",2018-12-18T11:53:01Z
+org.apache.lucenelucene-analyzers-icu,"add","","5.5.3",2018-09-27T14:43:27Z

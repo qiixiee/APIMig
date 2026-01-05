@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+it.unimi.dsifastutil,"add","","8.2.2",2019-03-23T01:12:23Z
+edu.berkeley.nlpberkeleyparser,"update","r32","1.7",2019-04-23T22:45:48Z
+org.apache.lucenelucene-benchmark,"add","","7.6.0",2019-04-16T02:15:40Z
+it.uniroma1.lcl.adwadw,"add","","1.0.0-feb2015",2019-03-23T01:12:23Z

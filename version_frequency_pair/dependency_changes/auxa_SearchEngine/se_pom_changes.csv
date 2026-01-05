@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"add","","7.5.0",2018-10-04T11:35:01Z
+org.apache.lucenelucene-analyzers-common,"add","","7.5.0",2018-10-04T11:35:01Z
+org.apache.lucenelucene-queryparser,"add","","7.5.0",2018-10-04T11:35:01Z

@@ -1,0 +1,2 @@
+library,type,old_version,new_version,commit_date
+com.amazonawsaws-java-sdk-s3,"add","","${versions.aws}",2024-06-11T09:46:33Z

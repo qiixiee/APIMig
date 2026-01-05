@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+com.star.infblog-inf,"add","","7.0",2023-01-26T14:54:37Z
+com.star.rpcblog-rpc,"add","","7.0",2023-02-18T05:02:16Z
+org.springframework.bootspring-boot-starter-quartz,"add","","unknown",2023-02-18T05:02:16Z

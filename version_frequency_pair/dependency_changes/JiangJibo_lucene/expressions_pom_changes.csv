@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.antlrantlr4-runtime,"update","unknown","4.5.1-1",2020-09-20T14:27:29Z
+org.apache.lucenelucene-core,"remove","unknown","",2019-05-21T09:38:20Z
+org.apache.lucenelucene-codecs,"remove","unknown","",2019-05-21T09:38:20Z
+org.ow2.asmasm-commons,"update","unknown","5.1",2020-09-20T14:27:29Z
+org.ow2.asmasm,"update","unknown","5.1",2020-09-20T14:27:29Z

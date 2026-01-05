@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"remove","4.0.0","",2015-08-19T14:55:27Z
+org.elasticsearchelasticsearch,"update","1.4.0.Beta1","1.4.1",2015-08-19T14:55:27Z
+org.elasticsearchelasticsearch,"add","","1.4.0.Beta1",2014-11-30T17:49:52Z
+org.apache.lucenelucene-analyzers-common,"remove","4.0.0","",2015-08-19T14:55:27Z
+org.apache.lucenelucene-queryparser,"remove","4.0.0","",2015-08-19T14:55:27Z

@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+io.github.zqrferrarilogi-elasticsearch-sql,"remove","unknown","",2022-11-17T09:10:51Z
+io.github.zqrferrarilogi-dsl-prase,"remove","unknown","",2022-11-17T09:10:51Z
+io.github.knowstackkf-dsl-prase,"add","","unknown",2022-11-17T09:10:51Z
+io.github.knowstackkf-elasticsearch-sql,"add","","unknown",2022-11-17T09:10:51Z

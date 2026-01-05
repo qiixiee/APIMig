@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+edu.stanford.nlpstanford-corenlp,"remove","3.9.2","",2019-07-24T07:15:20Z
+org.apache.lucenelucene-queries,"add","","6.6.1",2019-03-20T08:17:50Z
+org.apache.lucenelucene-core,"add","","6.6.1",2019-03-20T08:17:50Z
+org.apache.lucenelucene-analyzers-common,"add","","6.6.1",2019-03-20T08:17:50Z
+org.apache.lucenelucene-queryparser,"add","","6.6.1",2019-03-20T08:17:50Z

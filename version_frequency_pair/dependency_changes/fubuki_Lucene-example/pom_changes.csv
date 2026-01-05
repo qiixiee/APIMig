@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","5.5.2","6.1.0",2016-08-12T03:55:32Z
+org.apache.lucenelucene-suggest,"update","5.5.2","6.1.0",2016-08-12T03:55:32Z
+org.apache.lucenelucene-highlighter,"update","5.5.2","6.1.0",2016-08-12T03:55:32Z
+org.apache.lucenelucene-analyzers-smartcn,"update","5.5.2","6.1.0",2016-08-12T03:55:32Z
+org.wltea.ik-analyzerik-analyzer,"update","3.2.8","4.0.0",2016-08-12T03:55:32Z
+org.apache.lucenelucene-analyzers-kuromoji,"update","5.5.2","6.1.0",2016-08-12T03:55:32Z
+org.apache.lucenelucene-analyzers-common,"update","5.5.2","6.1.0",2016-08-12T03:55:32Z
+org.apache.lucenelucene-queryparser,"update","5.5.2","6.1.0",2016-08-12T03:55:32Z

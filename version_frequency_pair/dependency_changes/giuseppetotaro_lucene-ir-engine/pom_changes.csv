@@ -1,0 +1,10 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-backward-codecs,"update","5.3.0","7.6.0",2019-01-16T13:57:53Z
+org.apache.lucenelucene-queries,"update","5.3.0","7.6.0",2019-01-16T13:57:53Z
+org.apache.lucenelucene-core,"update","5.3.0","7.6.0",2019-01-16T13:57:53Z
+org.apache.lucenelucene-suggest,"add","","7.6.0",2019-01-16T13:57:53Z
+org.apache.tikatika-parsers,"update","1.10","1.20",2019-01-16T13:57:53Z
+org.apache.lucenelucene-analyzers-common,"update","5.3.0","7.6.0",2019-01-16T13:57:53Z
+org.apache.tikatika-core,"update","1.10","1.20",2019-01-16T13:57:53Z
+commons-clicommons-cli,"add","","1.2",2015-09-29T15:29:12Z
+org.apache.lucenelucene-queryparser,"update","5.3.0","7.6.0",2019-01-16T13:57:53Z

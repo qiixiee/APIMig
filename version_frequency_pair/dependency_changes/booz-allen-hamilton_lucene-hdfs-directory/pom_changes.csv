@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","4.3.0","4.7.0",2014-03-31T03:01:15Z
+org.apache.lucenelucene-codecs,"update","4.3.0","4.7.0",2014-03-31T03:01:15Z
+org.apache.lucenelucene-highlighter,"update","4.3.0","4.7.0",2014-03-31T03:01:15Z
+org.apache.lucenelucene-analyzers-common,"update","4.3.0","4.7.0",2014-03-31T03:01:15Z
+org.apache.lucenelucene-queryparser,"update","4.3.0","4.7.0",2014-03-31T03:01:15Z
+org.apache.lucenelucene-spatial,"update","4.3.0","4.7.0",2014-03-31T03:01:15Z

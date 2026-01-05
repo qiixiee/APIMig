@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.solrsolr-solrj,"add","","5.1.0",2016-06-08T07:16:11Z
+org.apache.httpcomponentshttpclient,"update","4.3.1","4.3.6",2018-10-17T01:02:14Z
+org.apache.httpcomponentshttpclient,"add","","4.3.1",2016-06-08T07:16:11Z
+junitjunit,"add","","4.12",2016-06-08T07:16:11Z

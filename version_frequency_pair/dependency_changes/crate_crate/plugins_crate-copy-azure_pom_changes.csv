@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+org.apache.opendalopendal-java,"remove","${versions.opendal}","",2024-12-27T13:40:25Z
+org.apache.opendalopendal,"add","","${versions.opendal}",2024-12-27T13:40:25Z

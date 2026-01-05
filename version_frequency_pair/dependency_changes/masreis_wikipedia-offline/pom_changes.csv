@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+ch.qos.logbacklogback-classic,"update","1.1.7","1.2.0",2021-06-07T18:58:02Z
+ch.qos.logbacklogback-classic,"add","","1.1.7",2020-10-31T22:38:44Z
+log4jlog4j,"remove","1.2.17","",2020-10-31T22:38:44Z
+mysqlmysql-connector-java,"update","8.0.16","8.0.28",2022-06-21T04:24:29Z
+mysqlmysql-connector-java,"update","5.1.26","8.0.16",2022-02-21T17:13:06Z
+mysqlmysql-connector-java,"update","8.0.16","5.1.26",2021-06-07T18:58:02Z
+mysqlmysql-connector-java,"update","5.1.26","8.0.16",2020-10-31T22:39:31Z

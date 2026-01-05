@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-analyzers-common,"update","6.6.0","8.9.0",2021-08-02T16:03:48Z
+org.apache.lucenelucene-analyzers-common,"update","5.1.0","6.6.0",2017-08-05T07:27:51Z
+org.apache.lucenelucene-test-framework,"update","6.6.0","8.9.0",2021-08-02T16:03:48Z
+org.apache.lucenelucene-test-framework,"update","5.1.0","6.6.0",2017-08-05T07:27:51Z

@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.cxfcxf-rt-transports-http-jetty,"add","","3.1.7",2018-08-03T22:58:24Z
+org.apache.cxfcxf-rt-frontend-jaxrs,"add","","3.1.7",2018-08-03T22:58:24Z
+org.codehaus.jacksonjackson-jaxrs,"add","","1.9.13",2018-08-03T22:58:24Z
+org.codehaus.jacksonjackson-mapper-asl,"add","","1.9.13",2018-08-02T18:23:33Z

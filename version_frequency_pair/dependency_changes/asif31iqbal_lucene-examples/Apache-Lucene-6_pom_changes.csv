@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+com.spatial4jspatial4j,"remove","0.4.1","",2017-02-03T20:51:11Z
+org.apache.lucenelucene-spatial-extras,"add","","6.4.0",2017-02-03T20:51:11Z
+org.apache.lucenelucene-facet,"update","4.0.0","6.4.0",2017-02-01T05:04:37Z
+org.apache.lucenelucene-analyzers,"remove","3.6.2","",2017-02-03T02:55:40Z

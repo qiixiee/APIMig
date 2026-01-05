@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+com.google.guavaguava,"add","","33.2.1-jre",2024-08-22T14:46:24Z
+com.github.shyikomysql-binlog-connector-java,"add","","0.21.0",2025-01-02T15:05:03Z
+com.baomidoumybatis-plus-boot-starter,"add","","3.5.9",2025-01-02T15:05:03Z
+org.projectlomboklombok,"add","","unknown",2024-08-22T14:46:24Z
+com.alibaba.fastjson2fastjson2,"add","","2.0.47",2025-01-02T15:05:03Z
+mysqlmysql-connector-java,"add","","8.0.33",2025-01-02T15:05:03Z
+cn.hutoolhutool-all,"add","","5.8.25",2025-01-02T15:05:03Z

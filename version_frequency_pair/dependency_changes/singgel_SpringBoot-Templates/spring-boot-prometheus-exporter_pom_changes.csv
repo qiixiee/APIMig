@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+io.prometheussimpleclient_spring_boot,"add","","0.6.0",2019-05-15T02:53:01Z
+io.prometheussimpleclient,"add","","0.6.0",2019-05-15T02:53:01Z
+io.prometheussimpleclient_hotspot,"add","","0.6.0",2019-05-15T02:53:01Z

@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+com.google.guavaguava,"update","18.0","unknown",2017-04-28T10:34:33Z
+org.slf4jslf4j-log4j12,"update","1.6.6","unknown",2017-04-28T10:34:33Z
+org.slf4jslf4j-api,"update","1.6.6","unknown",2017-04-28T10:34:33Z
+com.alibabafastjson,"update","1.2.24","unknown",2017-04-28T10:34:33Z
+junitjunit,"update","4.12","unknown",2017-04-28T10:34:33Z

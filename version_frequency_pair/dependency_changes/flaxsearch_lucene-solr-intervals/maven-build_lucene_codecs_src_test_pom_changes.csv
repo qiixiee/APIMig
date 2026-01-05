@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+uk.co.flax.lucene-solr-intervalslucene-core,"add","","unknown",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-test-framework,"update","${project.version}","unknown",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-codecs,"update","${project.version}","unknown",2014-04-01T15:56:10Z

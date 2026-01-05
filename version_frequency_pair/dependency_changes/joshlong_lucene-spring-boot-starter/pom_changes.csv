@@ -1,0 +1,11 @@
+library,type,old_version,new_version,commit_date
+org.springframework.experimentalspring-native,"remove","0.11.0","",2023-02-05T21:53:18Z
+org.springframework.experimentalspring-native,"add","","0.11.0",2021-12-12T19:55:54Z
+org.graalvm.nativeimagesvm,"add","","24.1.0",2024-09-23T13:13:19Z
+org.graalvm.nativeimagesvm,"remove","21.3.0","",2023-02-05T21:53:18Z
+org.graalvm.nativeimagesvm,"add","","21.3.0",2021-12-12T19:55:54Z
+org.springframework.bootspring-boot-configuration-processor,"add","","unknown",2020-10-07T06:56:09Z
+org.projectlomboklombok,"remove","unknown","",2024-09-23T13:13:19Z
+org.jsoupjsoup,"update","1.13.1","1.18.1",2024-09-23T13:13:19Z
+org.springframework.experimentalspring-aot,"remove","0.11.0","",2023-02-05T21:53:18Z
+org.springframework.experimentalspring-aot,"add","","0.11.0",2021-12-12T19:55:54Z

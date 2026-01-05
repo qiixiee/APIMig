@@ -1,0 +1,11 @@
+library,type,old_version,new_version,commit_date
+com.janeluoikanalyzer,"add","","2012_u6",2018-07-23T06:39:58Z
+org.apache.lucenelucene-queries,"add","","6.0.0",2018-07-23T06:39:58Z
+org.apache.lucenelucene-core,"add","","6.0.0",2018-07-23T06:39:58Z
+org.apache.tomcat.embedtomcat-embed-jasper,"add","","unknown",2018-08-09T13:45:54Z
+org.apache.lucenelucene-highlighter,"add","","6.0.0",2018-07-23T06:39:58Z
+org.apache.lucenelucene-analyzers-smartcn,"add","","6.0.0",2018-07-23T06:39:58Z
+javax.servletjstl,"add","","unknown",2018-08-09T13:45:54Z
+com.alibabafastjson,"add","","1.2.47",2018-08-09T13:45:54Z
+org.junit.jupiterjunit-jupiter-api,"add","","unknown",2018-07-23T06:39:58Z
+org.apache.lucenelucene-queryparser,"add","","6.0.0",2018-07-23T06:39:58Z

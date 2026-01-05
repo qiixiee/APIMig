@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+com.github.charithekafka-junit,"add","","3.0.2",2020-09-29T05:56:51Z
+org.apache.kafkakafka-clients,"remove","0.10.2.0","",2020-09-29T05:56:51Z
+org.springframework.bootspring-boot-starter-web,"add","","unknown",2018-11-16T03:47:24Z

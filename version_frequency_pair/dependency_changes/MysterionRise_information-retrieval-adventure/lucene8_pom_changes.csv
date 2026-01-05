@@ -1,0 +1,17 @@
+library,type,old_version,new_version,commit_date
+org.apache.solrsolr-solrj,"update","8.3.1","8.10.1",2021-11-12T14:09:36Z
+org.apache.solrsolr-solrj,"update","8.2.0","8.3.1",2019-12-06T14:29:27Z
+org.apache.solrsolr-cell,"update","8.3.1","8.10.1",2021-11-12T14:09:36Z
+org.apache.solrsolr-cell,"update","8.2.0","8.3.1",2019-12-06T14:29:27Z
+org.apache.lucenelucene-core,"update","8.3.1","8.10.1",2021-11-12T14:09:36Z
+org.apache.lucenelucene-core,"update","8.2.0","8.3.1",2019-12-06T14:29:27Z
+org.apache.solrsolr-core,"update","8.3.1","8.10.1",2021-11-12T14:09:36Z
+org.apache.solrsolr-core,"update","8.2.0","8.3.1",2019-12-06T14:29:27Z
+org.apache.solrsolr-test-framework,"update","8.3.1","8.10.1",2021-11-12T14:09:36Z
+org.apache.solrsolr-test-framework,"update","8.2.0","8.3.1",2019-12-06T14:29:27Z
+org.apache.lucenelucene-analyzers-common,"update","8.3.1","8.10.1",2021-11-12T14:09:36Z
+org.apache.lucenelucene-analyzers-common,"update","8.2.0","8.3.1",2019-12-06T14:29:27Z
+org.apache.solrsolr-dataimporthandler,"update","8.3.1","8.10.1",2021-11-12T14:09:36Z
+org.apache.solrsolr-dataimporthandler,"update","8.2.0","8.3.1",2019-12-06T14:29:27Z
+org.apache.lucenelucene-analyzers-icu,"update","8.3.1","8.10.1",2021-11-12T14:09:36Z
+org.apache.lucenelucene-analyzers-icu,"update","8.2.0","8.3.1",2019-12-06T14:29:27Z

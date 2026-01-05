@@ -1,0 +1,11 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","4.5.1","unknown",2017-05-23T15:39:21Z
+org.apache.lucenelucene-core,"add","","4.5.1",2017-05-23T10:33:12Z
+org.apache.lucenelucene-codecs,"update","4.5.1","unknown",2017-05-23T15:39:21Z
+org.apache.lucenelucene-codecs,"add","","4.5.1",2017-05-23T10:33:12Z
+com.google.guavaguava,"add","","unknown",2017-05-23T10:33:12Z
+org.apache.lucenelucene-analyzers-common,"update","4.5.1","unknown",2017-05-23T15:39:21Z
+org.apache.lucenelucene-analyzers-common,"add","","4.5.1",2017-05-23T10:33:12Z
+com.takinrpctakinrpc-server,"add","","0.0.1-SNAPSHOT",2017-05-23T14:53:36Z
+com.takinrpctakinrpc-registry,"add","","0.0.1-SNAPSHOT",2017-05-23T14:53:36Z
+junitjunit,"add","","unknown",2017-05-23T10:33:12Z

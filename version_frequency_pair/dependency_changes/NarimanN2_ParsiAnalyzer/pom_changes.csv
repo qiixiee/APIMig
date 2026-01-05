@@ -1,0 +1,10 @@
+library,type,old_version,new_version,commit_date
+org.junit.jupiterjunit-jupiter-engine,"add","","5.10.0",2023-11-06T15:10:23Z
+ch.qos.logbacklogback-classic,"add","","1.4.7",2023-11-06T15:10:23Z
+org.elasticsearchelasticsearch,"update","7.10.2","7.13.1",2021-06-06T15:02:25Z
+org.elasticsearchelasticsearch,"update","7.8.0","7.10.2",2021-02-07T15:05:59Z
+org.elasticsearchelasticsearch,"update","7.4.0","7.8.0",2020-06-20T09:51:22Z
+org.elasticsearchelasticsearch,"update","6.4.2","7.4.0",2019-10-14T12:20:29Z
+org.elasticsearchelasticsearch,"update","6.2.4","6.4.2",2018-10-19T15:13:46Z
+org.elasticsearchelasticsearch,"update","5.6.3","6.2.4",2018-08-09T14:37:11Z
+org.testcontainerselasticsearch,"add","","1.19.1",2023-11-06T15:10:23Z

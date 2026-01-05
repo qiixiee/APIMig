@@ -1,0 +1,13 @@
+library,type,old_version,new_version,commit_date
+com.starblog-common,"remove","1.5","",2023-01-24T17:37:49Z
+com.starblog-common,"update","1.0","1.5",2021-03-31T11:03:53Z
+com.star.commonblog-common,"remove","7.0","",2023-01-26T14:54:37Z
+com.star.commonblog-common,"add","","7.0",2023-01-24T17:37:49Z
+eu.bitwalkerUserAgentUtils,"remove","1.21","",2021-08-20T13:02:23Z
+eu.bitwalkerUserAgentUtils,"add","","1.21",2021-06-15T06:17:25Z
+com.star.adminblog-admin,"add","","7.0",2023-02-18T05:02:16Z
+com.star.adminblog-admin,"remove","7.0","",2023-02-15T17:08:23Z
+com.star.adminblog-admin,"add","","7.0",2023-01-26T14:54:37Z
+com.star.rpcblog-rpc,"remove","7.0","",2023-02-18T05:02:16Z
+com.star.rpcblog-rpc,"add","","7.0",2023-02-15T17:08:23Z
+commons-beanutilscommons-beanutils,"remove","1.9.1","",2023-01-24T17:37:49Z

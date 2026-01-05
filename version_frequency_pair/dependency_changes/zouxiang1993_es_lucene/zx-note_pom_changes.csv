@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+org.elasticsearch.testframework,"add","","${versions.es}",2018-12-29T08:33:39Z
+commons-iocommons-io,"add","","2.4",2019-03-12T09:46:39Z
+org.zx.es_lucenelucene-core,"add","","1.0-SNAPSHOT",2018-12-26T02:02:28Z
+com.alibabafastjson,"add","","1.2.47",2019-03-12T09:46:39Z
+org.zx.es_lucenecore,"add","","${es.lucene.version}",2018-12-29T08:33:39Z
+junitjunit,"remove","4.9","",2018-12-29T08:33:39Z
+junitjunit,"add","","4.9",2018-12-11T03:02:00Z

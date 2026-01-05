@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-facet,"add","","8.9.0",2021-11-17T11:38:58Z
+org.apache.lucenelucene-facet,"remove","8.9.0","",2021-09-09T05:55:40Z
+org.apache.lucenelucene-join,"remove","8.9.0","",2021-09-09T05:55:40Z

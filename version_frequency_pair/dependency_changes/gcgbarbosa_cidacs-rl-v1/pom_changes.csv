@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","5.3.0","7.1.0",2020-06-17T02:13:44Z
+org.jsonjson,"add","","20171018",2018-01-22T20:14:15Z
+org.apache.sparkspark-core_2.11,"update","2.3.1","2.4.0",2019-03-28T20:08:23Z
+org.apache.sparkspark-core_2.11,"add","","2.3.1",2019-03-26T15:42:47Z
+org.apache.commonscommons-csv,"add","","1.4",2019-03-26T15:42:47Z
+org.apache.sparkspark-sql_2.11,"add","","2.4.0",2019-03-28T20:08:23Z
+org.apache.lucenelucene-analyzers-common,"update","5.3.0","7.1.0",2021-02-01T12:55:18Z
+org.apache.lucenelucene-queryparser,"update","5.3.0","7.1.0",2021-02-01T12:55:18Z

@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.junit.vintagejunit-vintage-engine,"remove","${versions.junit5}","",2023-10-03T09:11:43Z
+org.junit.jupiterjunit-jupiter-api,"remove","${versions.junit5}","",2024-11-03T13:52:18Z
+org.junit.jupiterjunit-jupiter-api,"add","","${versions.junit5}",2024-06-10T12:39:10Z
+org.junit.jupiterjunit-jupiter,"add","","${versions.junit5}",2024-11-03T13:52:18Z
+org.junit.jupiterjunit-jupiter,"remove","${versions.junit5}","",2024-06-10T12:39:10Z
+junitjunit,"remove","${versions.junit}","",2023-10-03T09:11:43Z

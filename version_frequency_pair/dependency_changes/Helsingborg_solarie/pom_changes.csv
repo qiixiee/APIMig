@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.mortbay.jettyjsp-2.1-glassfish,"add","","2.1.v20100127",2014-10-05T14:31:28Z
+org.eclipse.jetty.aggregatejetty-all-server,"add","","8.1.15.v20140411",2014-10-05T14:31:28Z
+javax.servletservlet-api,"remove","2.5","",2014-10-05T14:31:28Z

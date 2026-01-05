@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"add","","5.5.0",2017-12-03T01:40:43Z
+org.apache.lucenelucene-analyzers-common,"add","","5.5.0",2017-12-03T01:40:43Z
+org.bytedecojavacv,"add","","1.1",2017-12-03T01:40:43Z
+org.apache.lucenelucene-queryparser,"add","","5.5.0",2017-12-03T01:40:43Z
+org.bytedecojavacpp,"add","","1.2.7",2017-12-03T01:40:43Z

@@ -1,0 +1,11 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-backward-codecs,"update","9.10.0","9.11.0",2024-06-21T08:26:38Z
+org.apache.lucenelucene-sandbox,"update","9.10.0","9.11.0",2024-06-21T08:26:38Z
+org.apache.lucenelucene-queries,"update","9.10.0","9.11.0",2024-06-21T08:26:38Z
+org.apache.lucenelucene-grouping,"update","9.10.0","9.11.0",2024-06-21T08:26:38Z
+org.apache.lucenelucene-core,"update","9.10.0","9.11.0",2024-06-21T08:26:38Z
+org.apache.lucenelucene-codecs,"update","9.10.0","9.11.0",2024-06-21T08:26:38Z
+org.apache.lucenelucene-highlighter,"update","9.10.0","9.11.0",2024-06-21T08:26:38Z
+org.apache.lucenelucene-memory,"update","9.10.0","9.11.0",2024-06-21T08:26:38Z
+org.apache.lucenelucene-facet,"update","9.10.0","9.11.0",2024-06-21T08:26:38Z
+org.apache.lucenelucene-misc,"update","9.10.0","9.11.0",2024-06-21T08:26:38Z

@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+com.hankcs.nlphanlp-lucene-plugin,"add","","1.1.2",2017-02-24T03:56:20Z
+com.google.guavaguava,"add","","20.0",2017-02-17T10:07:34Z
+org.quartz-schedulerquartz,"add","","2.2.3",2017-02-24T08:24:28Z
+com.chenlb.mmseg4jmmseg4j-solr,"remove","2.3.0","",2017-02-24T03:56:20Z
+com.chenlb.mmseg4jmmseg4j-core,"remove","1.10.0","",2017-02-24T03:56:20Z
+com.hankcshanlp,"add","","portable-1.3.2",2017-02-23T09:43:32Z

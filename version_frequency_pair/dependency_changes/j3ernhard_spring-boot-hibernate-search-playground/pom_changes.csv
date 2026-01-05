@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+org.hibernate.searchhibernate-search-backend-lucene,"update","6.1.5.Final","unknown",2024-12-14T08:46:39Z
+org.hibernate.searchhibernate-search-backend-lucene,"update","6.0.1.Final","6.1.5.Final",2022-07-14T20:11:36Z
+org.hibernate.searchhibernate-search-bom,"add","","7.2.2.Final",2024-12-14T08:46:39Z
+org.hibernate.searchhibernate-search-mapper-orm,"update","6.1.5.Final","unknown",2024-12-14T08:46:39Z
+org.hibernate.searchhibernate-search-mapper-orm,"update","6.0.1.Final","6.1.5.Final",2022-07-14T20:11:36Z
+org.hibernate.searchhibernate-search-engine,"remove","6.1.5.Final","",2024-12-14T08:46:39Z
+org.hibernate.searchhibernate-search-engine,"update","6.0.1.Final","6.1.5.Final",2022-07-14T20:11:36Z

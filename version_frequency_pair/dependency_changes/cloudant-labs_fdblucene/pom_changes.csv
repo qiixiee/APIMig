@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","8.0.0","8.1.0",2019-05-21T12:49:27Z
+org.apache.commonscommons-jcs-core,"remove","2.2.1","",2020-01-14T15:34:52Z
+org.apache.commonscommons-jcs-core,"add","","2.2.1",2019-04-12T15:58:51Z
+org.foundationdbfdb-java,"update","6.0.18","6.2.10",2020-02-03T20:42:17Z
+org.foundationdbfdb-java,"update","6.1.8","6.0.18",2019-08-09T20:21:26Z
+org.foundationdbfdb-java,"update","6.0.15","6.1.8",2019-06-07T10:08:04Z
+org.apache.lucenelucene-test-framework,"update","8.0.0","8.1.0",2019-05-21T12:49:27Z

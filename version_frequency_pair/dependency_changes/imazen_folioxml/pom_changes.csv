@@ -1,0 +1,15 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-queries,"add","","5.3.0",2015-09-10T18:00:39Z
+org.apache.lucenelucene-core,"update","3.3.0","5.3.0",2015-09-10T18:00:39Z
+org.apache.commonscommons-lang3,"add","","3.4",2015-09-10T18:00:39Z
+commons-langcommons-lang,"remove","unknown","",2015-09-10T18:00:39Z
+org.apache.lucenelucene-highlighter,"remove","3.3.0","",2015-09-10T18:00:39Z
+org.yamlsnakeyaml,"update","1.14","1.15",2015-06-26T19:19:49Z
+org.yamlsnakeyaml,"add","","1.14",2014-10-16T01:30:46Z
+org.apache.lucenelucene-analyzers-common,"add","","5.3.0",2015-09-10T18:00:39Z
+corg.apache.commonscommons-lang3,"remove","3.4","",2015-09-11T18:37:08Z
+corg.apache.commonscommons-lang3,"add","","3.4",2015-09-10T18:00:39Z
+org.apache.lucenelucene-analyzers,"add","","5.3.0",2015-09-10T18:00:39Z
+org.apache.lucenelucene-queryparser,"add","","5.3.0",2015-09-10T18:00:39Z
+com.amazonawsaws-java-sdk,"remove","1.0.002","",2014-10-16T08:07:39Z
+com.amazonawsaws-java-sdk,"add","","1.0.002",2014-10-16T01:30:46Z

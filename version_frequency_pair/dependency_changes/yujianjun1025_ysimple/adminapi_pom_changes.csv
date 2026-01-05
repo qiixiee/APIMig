@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+commons-loggingcommons-logging,"update","1.1","unknown",2016-02-04T03:51:24Z
+ch.qos.logbacklogback-classic,"remove","unknown","",2016-02-11T03:50:53Z
+ch.qos.logbacklogback-core,"remove","unknown","",2016-02-11T03:50:53Z
+org.projectlomboklombok,"add","","unknown",2016-02-04T03:51:24Z

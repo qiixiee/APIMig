@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+ch.qos.logbacklogback-classic,"add","","unknown",2018-04-16T17:24:14Z
+ch.qos.logbacklogback-core,"add","","unknown",2018-04-16T17:24:14Z
+org.apache.zookeeperzookeeper,"add","","unknown",2018-04-15T19:14:31Z
+org.springframework.dataspring-data-redis,"add","","unknown",2018-05-05T10:03:37Z
+org.slf4jslf4j-api,"add","","unknown",2018-04-16T17:24:14Z
+org.apache.curatorcurator-framework,"add","","unknown",2018-04-15T19:14:31Z
+top.crossoverjie.opensourcedistributed-redis-tool,"update","1.0.2","1.0.3",2018-05-05T11:06:38Z
+top.crossoverjie.opensourcedistributed-redis-tool,"add","","1.0.2",2018-05-05T10:03:37Z
+org.apache.httpcomponentshttpclient,"add","","unknown",2018-04-17T17:32:36Z
+com.alibabadubbo,"add","","unknown",2018-04-15T19:14:31Z
+com.crossoverJieSSM-SECONDS-KILL-API,"add","","unknown",2018-04-15T19:14:31Z

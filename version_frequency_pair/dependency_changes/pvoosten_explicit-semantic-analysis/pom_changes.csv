@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-analyzers-common,"add","","4.8.1",2014-06-22T19:33:56Z
+org.jdesktopbeansbinding,"add","","1.2.1",2014-07-10T21:29:33Z
+org.apache.commonscommons-compress,"update","1.8.1","1.19",2020-05-13T19:27:14Z
+org.apache.lucenelucene-queryparser,"add","","4.8.1",2014-06-25T19:25:09Z
+com.tinkerpop.blueprintsblueprints-graph-jung,"add","","2.5.0",2014-07-27T09:19:02Z

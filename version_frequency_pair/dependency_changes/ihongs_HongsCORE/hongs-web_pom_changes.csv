@@ -1,0 +1,17 @@
+library,type,old_version,new_version,commit_date
+org.xerialsqlite-jdbc,"remove","3.8.11.2","",2016-07-31T15:42:29Z
+${project.groupId}hongs-serv-member,"remove","${project.version}","",2016-06-01T02:40:07Z
+com.baidu.ueditorueditor-hh,"remove","1.1.2","",2016-06-01T02:40:07Z
+org.jsonjson,"remove","20090211","",2016-04-25T05:28:30Z
+commons-codeccommons-codec,"remove","1.5","",2016-04-25T05:28:30Z
+${project.groupId}hongs-serv-medium,"remove","${project.version}","",2016-05-31T15:00:58Z
+${project.groupId}hongs-serv-search,"remove","${project.version}","",2016-07-31T15:42:29Z
+${project.groupId}hongs-serv-module,"remove","${project.version}","",2016-06-01T02:40:07Z
+${project.groupId}hongs-serv-market,"remove","${project.version}","",2016-05-31T15:00:58Z
+${project.groupId}hongs-serv,"remove","${project.version}","",2016-07-31T15:42:29Z
+com.baidu.ueditorhongs-ueditor,"remove","1.1.2","",2016-06-01T14:11:59Z
+com.baidu.ueditorhongs-ueditor,"add","","1.1.2",2016-06-01T02:40:07Z
+${project.groupId}hongs-serv-system,"remove","${project.version}","",2023-02-19T07:39:50Z
+${project.groupId}hongs-serv-system,"add","","${project.version}",2018-12-18T05:45:49Z
+${project.groupId}hongs-serv-system,"remove","${project.version}","",2016-07-31T15:42:29Z
+${project.groupId}hongs-serv-source,"add","","${project.version}",2023-02-19T07:39:50Z

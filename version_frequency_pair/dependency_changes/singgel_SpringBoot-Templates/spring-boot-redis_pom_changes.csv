@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.projectlomboklombok,"add","","unknown",2019-09-11T03:43:28Z
+com.xueqiu.infratest-tools,"add","","1.0.3-SNAPSHOT",2020-09-29T05:56:51Z
+org.springframework.bootspring-boot-starter-web,"add","","unknown",2020-09-29T05:56:51Z

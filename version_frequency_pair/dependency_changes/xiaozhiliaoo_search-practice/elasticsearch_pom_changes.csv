@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.elasticsearch.plugintransport-netty4-client,"add","","7.14.0",2021-08-28T05:08:11Z
+org.elasticsearch.clientelasticsearch-rest-high-level-client,"update","8.0.0-alpha1","7.14.0",2021-08-29T14:32:12Z
+org.elasticsearch.clientelasticsearch-rest-high-level-client,"add","","8.0.0-alpha1",2021-08-28T05:08:11Z
+org.elasticsearch.clientelasticsearch-rest-client,"update","8.0.0-alpha1","7.14.0",2021-08-29T14:32:12Z
+org.elasticsearch.clientelasticsearch-rest-client,"add","","8.0.0-alpha1",2021-08-28T05:08:11Z
+com.alibabafastjson,"add","","1.2.78",2021-08-29T14:32:12Z
+org.projectlomboklombok,"add","","1.18.20",2021-08-29T14:32:12Z
+org.junit.jupiterjunit-jupiter,"add","","5.7.2",2021-08-29T14:32:12Z

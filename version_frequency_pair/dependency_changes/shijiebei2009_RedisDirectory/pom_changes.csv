@@ -1,0 +1,17 @@
+library,type,old_version,new_version,commit_date
+org.apache.logging.log4jlog4j-api,"update","2.16.0","2.17.0",2021-12-23T04:19:10Z
+org.apache.logging.log4jlog4j-api,"update","2.17.0","2.16.0",2021-12-18T18:15:52Z
+org.apache.logging.log4jlog4j-api,"update","2.16.0","2.17.0",2021-12-18T18:03:24Z
+org.apache.logging.log4jlog4j-api,"update","2.7","2.16.0",2021-12-15T09:30:04Z
+org.apache.logging.log4jlog4j-api,"update","2.16.0","2.7",2021-12-14T21:05:49Z
+org.apache.logging.log4jlog4j-api,"update","2.7","2.16.0",2021-12-14T20:28:20Z
+org.apache.logging.log4jlog4j-api,"update","2.6.2","2.7",2017-03-09T03:05:51Z
+commons-iocommons-io,"update","2.5","2.7",2021-05-01T03:19:00Z
+org.apache.commonscommons-lang3,"update","3.4","3.5",2017-03-09T03:05:51Z
+org.apache.logging.log4jlog4j-core,"update","2.17.0","2.17.1",2022-01-04T16:31:12Z
+org.apache.logging.log4jlog4j-core,"update","2.16.0","2.17.0",2021-12-18T18:15:52Z
+org.apache.logging.log4jlog4j-core,"update","2.13.2","2.16.0",2021-12-14T21:05:49Z
+org.apache.logging.log4jlog4j-core,"update","2.7","2.13.2",2021-05-01T03:29:03Z
+org.apache.logging.log4jlog4j-core,"update","2.6.2","2.7",2017-03-09T03:05:51Z
+org.xerial.snappysnappy-java,"add","","1.1.2.6",2017-03-09T03:05:51Z
+junitjunit,"update","4.12","4.13.1",2021-05-01T03:18:14Z

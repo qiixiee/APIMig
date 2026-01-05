@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-analyzers-smartcn,"add","","8.4.1",2020-03-04T11:09:17Z
+junitjunit,"add","","4.8",2020-03-04T11:09:17Z
+cn.hutoolhutool-all,"add","","4.6.6",2020-03-04T11:09:17Z

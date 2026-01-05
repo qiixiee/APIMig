@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.hibernatehibernate-search-orm,"add","","4.5.1.Final",2017-01-29T17:09:35Z
+org.springframework.bootspring-boot-starter-data-jpa,"add","","unknown",2017-01-29T17:09:35Z
+org.hibernatehibernate-entitymanager,"add","","unknown",2017-01-29T17:09:35Z
+mysqlmysql-connector-java,"add","","unknown",2017-01-29T17:09:35Z

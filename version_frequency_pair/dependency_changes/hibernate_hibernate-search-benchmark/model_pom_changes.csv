@@ -1,0 +1,16 @@
+library,type,old_version,new_version,commit_date
+org.hibernatehibernate-agroal,"add","","unknown",2021-01-25T17:17:37Z
+org.assertjassertj-core,"add","","unknown",2021-05-21T12:17:45Z
+org.assertjassertj-core,"remove","${version.assertj}","",2020-11-27T13:13:26Z
+org.assertjassertj-core,"add","","${version.assertj}",2020-11-25T16:10:55Z
+org.hibernatehibernate-core,"update","5.4.24.Final","unknown",2020-11-23T11:32:02Z
+org.hibernatehibernate-core,"add","","5.4.24.Final",2020-11-23T09:03:16Z
+org.postgresqlpostgresql,"update","${version.postgresql.client}","unknown",2021-05-21T12:17:45Z
+org.postgresqlpostgresql,"add","","${version.postgresql.client}",2021-01-07T13:40:59Z
+org.apache.logging.log4jlog4j-core,"update","${version.log4j}","unknown",2021-05-21T12:17:45Z
+org.apache.logging.log4jlog4j-core,"add","","${version.log4j}",2020-11-25T16:10:55Z
+com.h2databaseh2,"remove","1.4.200","",2021-01-07T13:40:59Z
+com.h2databaseh2,"add","","1.4.200",2020-11-23T09:03:16Z
+org.junit.jupiterjunit-jupiter-api,"add","","unknown",2021-05-21T12:17:45Z
+org.junit.jupiterjunit-jupiter-api,"remove","${version.junit.jupiter}","",2020-11-27T13:13:26Z
+org.junit.jupiterjunit-jupiter-api,"add","","${version.junit.jupiter}",2020-11-25T16:10:55Z

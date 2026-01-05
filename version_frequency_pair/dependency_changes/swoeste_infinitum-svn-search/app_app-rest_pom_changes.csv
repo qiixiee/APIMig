@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.springframeworkspring-webmvc,"update","${version.spring}","unknown",2017-04-07T05:57:02Z
+io.springfoxspringfox-swagger-ui,"update","2.6.1","unknown",2017-04-07T05:57:02Z
+javax.servletjavax.servlet-api,"update","3.1.0","unknown",2017-04-07T05:57:02Z
+io.springfoxspringfox-swagger2,"update","2.6.1","unknown",2017-04-07T05:57:02Z
+io.swaggerswagger-core,"remove","unknown","",2019-07-16T15:54:19Z
+io.swaggerswagger-core,"update","1.5.13","unknown",2017-04-07T05:57:02Z
+joda-timejoda-time,"update","2.9.9","unknown",2017-04-07T05:57:02Z
+io.swagger.core.v3swagger-core,"add","","unknown",2019-07-16T15:54:19Z

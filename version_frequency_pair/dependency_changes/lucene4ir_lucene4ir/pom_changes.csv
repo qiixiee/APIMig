@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+net.sf.extjwnlextjwnl,"add","","1.8.0",2016-09-09T09:13:12Z
+org.apache.lucenelucene-memory,"add","","6.2.0",2016-09-27T11:26:37Z
+org.apache.lucenelucene-analyzers-common,"add","","6.2.0",2016-09-09T15:31:04Z
+net.sf.extjwnlextjwnl-data-wn31,"add","","1.2",2016-09-09T09:13:12Z
+org.apache.commonscommons-text,"add","","1.1",2017-09-19T10:30:27Z
+org.apache.commonscommons-compress,"add","","1.14",2017-09-14T12:34:34Z

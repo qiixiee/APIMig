@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.apache.stanbolorg.apache.stanbol.enhancer.test,"update","0.10.0-SNAPSHOT","0.10.0",2013-02-22T14:46:35Z
+org.apache.stanbolorg.apache.stanbol.enhancer.core,"update","0.10.0-SNAPSHOT","0.10.0",2013-02-22T14:46:35Z
+org.apache.stanbolorg.apache.stanbol.enhancer.nlp,"update","0.10.0-SNAPSHOT","0.10.0",2013-02-22T14:46:35Z
+org.apache.stanbolorg.apache.stanbol.enhancer.engines.entitylinking.labeltokenizer.lucene,"update","0.10.0-SNAPSHOT","0.10.0",2013-02-22T14:46:35Z
+org.apache.stanbolorg.apache.stanbol.enhancer.servicesapi,"update","0.10.0-SNAPSHOT","0.10.0",2013-02-22T14:46:35Z

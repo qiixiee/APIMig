@@ -1,0 +1,11 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-backward-codecs,"update","5.1.0","8.8.0",2021-03-23T00:58:27Z
+org.apache.lucenelucene-backward-codecs,"add","","5.1.0",2020-09-20T12:17:20Z
+org.apache.lucenelucene-queries,"update","5.1.0","8.8.0",2021-03-23T00:58:27Z
+org.apache.lucenelucene-core,"update","5.1.0","8.8.0",2021-03-23T00:58:27Z
+org.apache.lucenelucene-codecs,"update","5.1.0","8.8.0",2021-03-23T00:58:27Z
+org.apache.tikatika-parsers,"update","1.21","1.26",2021-05-04T14:03:59Z
+org.apache.lucenelucene-analyzers-common,"update","5.1.0","8.8.0",2021-03-23T00:58:27Z
+org.apache.commonscommons-compress,"update","1.1","[1.18,)",2021-05-04T14:03:59Z
+org.apache.tikatika-core,"update","1.21","1.26",2021-05-04T14:03:59Z
+org.apache.lucenelucene-queryparser,"update","5.1.0","8.8.0",2021-03-23T00:58:27Z

@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-highlighter,"add","","4.3.0",2013-06-13T18:49:46Z
+org.apache.lucenelucene-facet,"add","","4.3.0",2013-06-13T19:32:09Z
+org.apache.lucenelucene-analyzers-common,"add","","4.3.0",2013-06-11T19:36:02Z
+org.apache.lucenelucene-queryparser,"add","","4.3.0",2013-06-12T20:24:54Z

@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.datayoo.tripodtripod-meta,"update","1.0.0","RELEASE",2022-06-30T15:01:31Z
+org.datayoo.tripodtripod-meta,"update","1.0-SNAPSHOT","1.0.0",2020-08-17T11:57:03Z
+org.slf4jslf4j-log4j12,"update","1.7.25","2.0.0-alpha7",2022-07-30T13:27:28Z
+org.ansjansj_seg,"add","","5.1.6",2022-06-30T15:01:31Z

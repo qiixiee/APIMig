@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"add","","9.6.0",2023-05-13T14:32:37Z
+org.apache.lucenelucene-analyzers-common,"add","","8.11.2",2023-05-13T14:32:37Z
+org.apache.lucenelucene-queryparser,"add","","9.6.0",2023-05-13T14:32:37Z

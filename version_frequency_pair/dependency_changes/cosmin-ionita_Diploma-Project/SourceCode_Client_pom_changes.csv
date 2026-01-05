@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.slf4jslf4j-api,"add","","1.7.25",2018-06-28T13:06:18Z
+com.amazonawsaws-java-sdk-sqs,"add","","1.11.335",2018-06-28T13:06:18Z
+org.jetbrainsannotations,"add","","RELEASE",2018-05-15T11:18:23Z
+com.amazonawsaws-java-sdk-s3,"add","","1.11.340",2018-06-29T10:56:15Z
+org.junit.jupiterjunit-jupiter-api,"add","","5.1.1",2018-06-29T10:56:15Z
+org.slf4jslf4j-nop,"add","","1.7.25",2018-06-28T13:06:18Z
+commons-clicommons-cli,"add","","LATEST",2018-05-15T11:18:23Z
+junitjunit,"add","","4.12",2018-06-29T10:56:15Z

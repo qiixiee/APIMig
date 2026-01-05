@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-analyzers-smartcn,"remove","6.6.0","",2018-03-08T08:33:41Z
+log4jlog4j,"add","","1.2.17",2018-03-08T08:33:41Z

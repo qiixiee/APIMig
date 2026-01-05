@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.apache.solrsolr-solrj,"add","","3.6.2",2013-04-03T14:17:37Z
+org.apache.httpcomponentshttpclient,"add","","4.1.3",2013-04-03T14:17:37Z
+org.apache.httpcomponentshttpmime,"add","","4.1.3",2013-04-03T14:17:37Z
+tikatika,"remove","1.2","",2013-04-03T14:17:37Z
+log4jlog4j,"add","","1.2.14",2013-04-04T14:55:39Z
+mysqlmysql-connector-java,"add","","5.1.20",2013-04-21T07:50:36Z

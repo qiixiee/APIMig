@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.springframeworkspring-webmvc,"update","3.2.0.RELEASE","4.1.0.RELEASE",2015-05-11T08:51:35Z
+taglibsstandard,"add","","1.1.2",2015-05-11T08:51:35Z
+org.springframeworkspring-core,"update","3.2.0.RELEASE","4.1.0.RELEASE",2015-05-11T08:51:35Z
+javax.servletjavax.servlet-api,"add","","3.1.0",2015-05-11T08:51:35Z
+org.springframeworkspring-web,"update","3.2.0.RELEASE","4.1.0.RELEASE",2015-05-11T08:51:35Z
+org.springframeworkspring-jdbc,"update","3.2.0.RELEASE","4.1.0.RELEASE",2015-05-11T08:51:35Z
+jstljstl,"add","","1.2",2015-05-11T08:51:35Z
+javax.servletjsp-api,"add","","2.0",2015-05-11T08:51:35Z

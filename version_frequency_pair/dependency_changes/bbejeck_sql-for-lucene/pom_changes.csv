@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.ow2.asmasm-analysis,"remove","5.0.2","",2015-03-30T00:38:03Z
+org.ow2.asmasm-all,"remove","5.0.2","",2015-03-30T00:38:03Z
+com.google.guavaguava,"update","17.0","18.0",2015-03-02T03:00:06Z

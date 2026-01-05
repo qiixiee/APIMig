@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+com.google.code.gsongson,"update","2.8.2","2.8.6",2021-04-13T13:41:24Z
+org.apache.lucenelucene-core,"update","7.1.0","8.8.2",2021-04-13T13:41:24Z
+org.apache.lucenelucene-core,"update","3.6.2","7.1.0",2021-04-13T12:33:37Z
+org.apache.lucenelucene-analyzers-common,"add","","8.8.2",2021-04-13T13:41:24Z
+org.apache.lucenelucene-snowball,"remove","3.0.3","",2021-04-13T13:41:24Z

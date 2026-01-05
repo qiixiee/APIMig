@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.neo4jneo4j,"add","","3.5.5",2021-11-14T15:43:22Z
+org.springframework.bootspring-boot-starter-data-neo4j,"add","","unknown",2021-11-22T15:33:49Z
+org.neo4jneo4j-ogm-bolt-driver,"remove","3.2.18","",2021-11-22T15:50:50Z
+org.neo4jneo4j-ogm-bolt-driver,"add","","3.2.18",2021-11-22T15:33:49Z

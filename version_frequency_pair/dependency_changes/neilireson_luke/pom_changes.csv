@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.mozillarhino,"update","1.7R5","1.7.7.1",2017-03-07T14:47:29Z
+org.slf4j${slf4j.binding},"update","1.7.21","1.7.24",2017-03-07T14:47:29Z
+org.slf4j${slf4j.binding},"update","1.7.12","1.7.21",2016-04-13T14:31:37Z
+org.slf4j${slf4j.binding},"update","1.7.10","1.7.12",2015-10-29T10:30:37Z
+net.sf.ehcacheehcache,"update","2.6.10","2.10.3",2017-03-07T14:47:29Z

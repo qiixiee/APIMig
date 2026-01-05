@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.jboss.shrinkwrap.resolvershrinkwrap-resolver-api,"add","","unknown",2017-03-13T10:27:31Z
+org.jboss.arquillianarquillian-bom,"add","","${arquillianVersion}",2017-03-13T00:01:51Z
+org.jboss.shrinkwrapshrinkwrap-api,"add","","unknown",2017-03-13T10:27:31Z
+org.jboss.shrinkwrap.resolvershrinkwrap-resolver-api-maven,"add","","unknown",2017-03-13T10:27:31Z

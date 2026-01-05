@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.apache.poipoi-ooxml,"add","","3.5-FINAL",2016-12-04T01:01:50Z
+poipoi-scratchpad,"add","","3.1-FINAL",2016-11-17T21:24:40Z
+org.bouncycastlebcprov-jdk15,"remove","1.44","",2016-11-17T21:24:40Z
+org.bouncycastlebcmail-jdk15,"remove","1.44","",2016-11-17T21:24:40Z
+org.jsoupjsoup,"add","","1.8.3",2016-11-17T21:24:40Z
+junitjunit,"update","3.8.1","4.11",2016-11-21T00:57:09Z
+org.apache.poipoi,"add","","3.5-FINAL",2016-12-04T01:01:50Z
+org.apache.poipoi,"remove","3.9","",2016-11-21T18:25:07Z

@@ -1,0 +1,10 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-queries,"add","","7.7.3",2022-07-04T13:17:16Z
+org.apache.lucenelucene-core,"add","","7.7.3",2022-07-04T13:17:16Z
+org.apache.lucenelucene-core,"remove","7.7.3","",2022-07-02T12:13:12Z
+org.apache.lucenelucene-analyzers-common,"add","","7.7.3",2022-07-04T13:17:16Z
+org.apache.lucenelucene-analyzers-common,"remove","7.7.3","",2022-07-02T12:13:12Z
+org.nd4jnd4j-common,"remove","1.0.0-beta7","",2022-07-02T12:13:12Z
+org.nd4jnd4j-common,"add","","1.0.0-beta7",2022-07-01T17:36:55Z
+org.apache.lucenelucene-queryparser,"add","","7.7.3",2022-07-04T13:17:16Z
+org.apache.lucenelucene-queryparser,"remove","7.7.3","",2022-07-02T12:13:12Z

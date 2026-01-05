@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.solrsolr-solrj,"update","6.6.0","8.11.3",2024-03-12T13:06:38Z
+commons-iocommons-io,"update","2.5","2.7",2021-04-26T17:19:37Z
+commons-iocommons-io,"add","","2.5",2017-12-11T22:15:14Z
+org.apache.commonscommons-lang3,"add","","3.1",2017-12-11T22:15:14Z

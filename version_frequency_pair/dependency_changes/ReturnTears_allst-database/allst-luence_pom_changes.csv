@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","8.9.0","7.7.3",2021-08-07T16:55:45Z
+commons-iocommons-io,"update","2.11.0","2.14.0",2024-10-03T17:01:09Z
+com.github.mageseik-analyzer,"update","8.4.0","7.7.1",2021-08-21T05:10:08Z
+org.apache.lucenelucene-analyzers-common,"update","8.9.0","7.7.3",2021-08-07T16:55:45Z
+org.apache.lucenelucene-queryparser,"update","8.9.0","7.7.3",2021-08-07T16:55:45Z

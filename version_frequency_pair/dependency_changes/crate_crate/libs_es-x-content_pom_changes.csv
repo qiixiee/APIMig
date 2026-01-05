@@ -1,0 +1,2 @@
+library,type,old_version,new_version,commit_date
+ch.randelshoferfastdoubleparser,"add","","${versions.fastdoubleparser}",2024-11-04T08:34:26Z

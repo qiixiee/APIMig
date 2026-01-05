@@ -1,0 +1,13 @@
+library,type,old_version,new_version,commit_date
+org.springframework.bootspring-boot-starter-actuator,"update","2.1.5.RELEASE","unknown",2019-07-26T09:32:34Z
+org.springframework.bootspring-boot-starter-actuator,"add","","2.1.5.RELEASE",2019-06-03T14:21:36Z
+org.apache.shiroshiro-spring-boot-web-starter,"update","1.4.1","unknown",2019-07-26T09:32:34Z
+org.apache.shiroshiro-spring-boot-web-starter,"add","","1.4.1",2019-06-02T16:53:06Z
+com.spring4allswagger-spring-boot-starter,"update","1.9.0.RELEASE","unknown",2019-07-26T09:32:34Z
+com.spring4allswagger-spring-boot-starter,"add","","1.9.0.RELEASE",2019-06-02T16:53:06Z
+commons-iocommons-io,"update","2.6","unknown",2019-07-26T09:32:34Z
+org.postgresqlpostgresql,"add","","unknown",2019-06-06T10:12:01Z
+org.postgresqlpostgresql,"remove","unknown","",2019-06-02T16:53:06Z
+org.springframework.bootspring-boot-starter,"remove","unknown","",2019-07-26T09:32:34Z
+org.projectlomboklombok,"remove","1.18.8","",2019-07-26T09:32:34Z
+mysqlmysql-connector-java,"add","","8.0.16",2019-06-02T16:53:06Z

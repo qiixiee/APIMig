@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.codehaus.woodstoxwstx-asl,"add","","3.2.7",2019-05-03T02:21:37Z
+org.apache.solrsolr-solrj,"add","","4.10.3",2019-05-03T02:21:37Z
+commons-iocommons-io,"add","","2.6",2019-05-03T02:21:37Z
+org.apache.zookeeperzookeeper,"add","","3.4.6",2019-05-03T02:21:37Z
+org.apache.httpcomponentshttpclient,"add","","4.3.1",2019-05-03T02:21:37Z
+org.apache.httpcomponentshttpmime,"add","","4.3.1",2019-05-03T02:21:37Z
+org.noggitnoggit,"add","","0.5",2019-05-03T02:21:37Z
+org.apache.httpcomponentshttpcore,"add","","4.3",2019-05-03T02:21:37Z

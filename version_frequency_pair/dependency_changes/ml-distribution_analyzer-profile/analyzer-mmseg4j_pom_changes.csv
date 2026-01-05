@@ -1,0 +1,10 @@
+library,type,old_version,new_version,commit_date
+org.apache.solrsolr-solrj,"add","","unknown",2014-12-11T12:03:38Z
+ch.qos.logbacklogback-classic,"add","","unknown",2014-12-11T12:03:38Z
+ch.qos.logbacklogback-core,"add","","unknown",2014-12-11T12:03:38Z
+org.slf4jslf4j-log4j12,"remove","unknown","",2014-12-11T09:57:10Z
+org.apache.solrsolr-test-framework,"add","","${solr.version}",2015-09-16T13:07:43Z
+org.apache.lucenelucene-analyzers-common,"add","","unknown",2014-12-11T12:03:38Z
+ch.qos.logbacklogback-access,"add","","unknown",2014-12-11T12:03:38Z
+log4jlog4j,"remove","unknown","",2014-12-11T09:57:10Z
+org.apache.lucenelucene-queryparser,"update","${lucene.version}","unknown",2014-05-07T08:57:28Z

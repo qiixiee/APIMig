@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-codecs-aggregator,"update","1.0-SNAPSHOT","unknown",2020-11-23T01:39:52Z
+org.apache.lucenelucene-core-aggregator,"update","1.0-SNAPSHOT","unknown",2020-11-23T01:39:52Z
+com.google.guavaguava,"add","","unknown",2020-11-17T02:44:25Z
+org.hamcresthamcrest,"add","","2.2",2020-11-17T02:23:49Z
+org.apache.lucenelucene-analyzers-common,"remove","unknown","",2020-12-30T01:57:29Z
+org.apache.lucenelucene-analyzers-common,"add","","unknown",2020-11-17T02:44:25Z
+com.github.maltalexineter,"add","","0.1.2",2020-12-30T01:57:29Z

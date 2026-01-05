@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-queries,"update","6.0.0","8.0.0",2019-04-08T15:49:51Z
+org.apache.lucenelucene-core,"update","6.0.0","8.0.0",2019-04-08T15:49:51Z
+org.apache.lucenelucene-highlighter,"update","6.0.0","8.0.0",2019-04-08T15:49:51Z
+org.apache.lucenelucene-analyzers-smartcn,"update","6.0.0","8.0.0",2019-04-08T15:49:51Z
+org.junit.jupiterjunit-jupiter-api,"add","","RELEASE",2018-07-21T02:36:02Z
+org.apache.lucenelucene-queryparser,"update","6.0.0","8.0.0",2019-04-08T15:49:51Z
+junitjunit,"add","","4.12",2018-07-21T02:36:02Z

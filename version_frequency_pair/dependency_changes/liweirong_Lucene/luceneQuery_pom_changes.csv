@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-grouping,"add","","${lucene.version}",2018-12-12T04:09:30Z
+org.apache.lucenelucene-classification,"add","","${lucene.version}",2018-12-12T04:09:30Z
+org.apache.lucenelucene-demo,"add","","${lucene.version}",2018-12-19T10:24:23Z

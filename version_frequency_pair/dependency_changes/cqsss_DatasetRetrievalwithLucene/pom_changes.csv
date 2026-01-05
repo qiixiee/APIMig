@@ -1,0 +1,11 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-queries,"add","","8.7.0",2020-11-18T12:03:23Z
+org.apache.lucenelucene-expressions,"add","","8.7.0",2020-11-18T12:03:23Z
+org.springframework.bootspring-boot-starter-thymeleaf,"add","","unknown",2021-03-02T11:39:54Z
+org.webjarsbootstrap,"add","","3.3.7",2021-03-02T11:39:54Z
+com.alibabafastjson,"add","","1.2.73",2020-12-18T08:08:20Z
+org.jsoupjsoup,"add","","1.13.1",2020-12-30T06:23:45Z
+log4jlog4j,"remove","1.2.17","",2020-12-15T03:42:30Z
+log4jlog4j,"add","","1.2.17",2020-12-05T10:39:36Z
+org.springframework.bootspring-boot-starter-log4j2,"add","","unknown",2020-12-15T03:42:30Z
+mysqlmysql-connector-java,"add","","8.0.22",2020-11-14T12:20:48Z

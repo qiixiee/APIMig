@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+org.apache.httpcomponentshttpclient,"add","","4.3.6",2015-08-01T10:00:28Z
+org.apache.httpcomponentsfluent-hc,"add","","4.3.6",2015-08-01T10:00:28Z

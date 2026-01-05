@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+com.oracle.database.nlsorai18n,"add","","19.7.0.0",2023-07-26T15:26:09Z
+com.mybatis-flexmybatis-flex-spring-boot-starter,"add","","1.5.3",2023-07-26T15:26:09Z
+com.mybatis-flexmybatis-flex-processor,"add","","1.5.3",2023-07-26T15:26:09Z
+org.projectlomboklombok,"add","","1.18.20",2023-07-26T15:26:09Z
+com.zaxxerHikariCP,"add","","unknown",2023-07-26T15:26:09Z

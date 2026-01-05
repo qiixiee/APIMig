@@ -1,0 +1,14 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-analysis-common,"add","","9.4.2",2022-12-21T06:59:46Z
+org.apache.lucenelucene-core,"update","8.8.1","9.4.2",2022-12-21T06:59:46Z
+org.apache.lucenelucene-core,"update","8.8.0","8.8.1",2021-04-29T11:03:08Z
+org.slf4jslf4j-api,"update","1.7.30","2.0.5",2022-12-21T06:59:46Z
+org.apache.lucenelucene-analyzers-common,"remove","8.8.1","",2022-12-21T06:59:46Z
+org.apache.lucenelucene-analyzers-common,"update","8.8.0","8.8.1",2021-04-29T11:03:08Z
+org.rocksdbrocksdbjni,"update","6.19.3","7.7.3",2022-12-21T06:59:46Z
+org.rocksdbrocksdbjni,"update","6.15.2","6.19.3",2021-04-29T11:03:08Z
+org.mapdbmapdb,"remove","3.0.8","",2022-12-21T06:59:46Z
+org.mapdbmapdb,"add","","3.0.8",2021-02-22T08:47:19Z
+com.h2databaseh2-mvstore,"update","1.4.200","2.1.214",2022-12-21T06:59:46Z
+org.apache.lucenelucene-queryparser,"update","8.8.1","9.4.2",2022-12-21T06:59:46Z
+org.apache.lucenelucene-queryparser,"update","8.8.0","8.8.1",2021-04-29T11:03:08Z

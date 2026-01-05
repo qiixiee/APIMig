@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.apache.camelcamel-servlet,"add","","2.18.2",2017-03-12T14:29:18Z
+org.apache.camelcamel-servletlistener,"add","","2.18.2",2017-03-12T14:29:18Z
+org.apache.camelcamel-jackson,"add","","2.18.2",2017-03-12T14:29:18Z
+org.apache.camelcamel-core,"add","","2.18.2",2017-03-12T14:29:18Z
+com.squareup.okhttp3okhttp,"add","","3.6.0",2017-03-13T01:20:43Z
+org.apache.httpcomponentshttpclient,"add","","4.5.3",2017-03-13T01:20:43Z
+org.mockitomockito-all,"add","","1.10.19",2017-03-09T22:30:49Z
+org.apache.httpcomponentshttpcore,"add","","4.4.6",2017-03-12T15:37:27Z
+org.apache.camelcamel-cdi,"add","","2.18.2",2017-03-14T01:36:00Z
+javaxjavaee-api,"add","","7.0",2017-03-12T14:29:18Z
+com.zaxxerHikariCP,"add","","2.6.1",2017-03-14T09:00:26Z

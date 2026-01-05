@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","5.0.0","8.4.1",2020-03-10T05:54:49Z
+org.scala-langscala-library,"add","","2.11.7",2017-06-21T10:48:06Z
+org.apache.lucenelucene-analyzers-common,"update","5.0.0","8.4.1",2020-03-10T05:54:49Z

@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+net.java.dev.javaccjavacc,"add","","6.1.2",2015-10-24T06:01:50Z
+org.apache.lucenelucene-analyzers-common,"update","4.3.0","4.3.1",2013-12-13T20:02:51Z
+org.apache.lucenelucene-analyzers-common,"update","4.0.0","4.3.0",2013-08-13T21:30:12Z
+org.apache.lucenelucene-queryparser,"update","4.3.0","4.3.1",2013-12-13T20:02:51Z
+org.apache.lucenelucene-queryparser,"update","4.0.0","4.3.0",2013-08-13T21:30:12Z

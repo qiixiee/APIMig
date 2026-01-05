@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.springframework.bootspring-boot-starter-data-solr,"add","","unknown",2023-09-19T14:43:07Z
+commons-codeccommons-codec,"add","","unknown",2023-09-19T14:43:07Z
+org.springframework.bootspring-boot-starter-test,"add","","unknown",2023-09-19T14:43:07Z
+org.springframework.bootspring-boot-devtools,"add","","unknown",2023-09-19T14:43:07Z

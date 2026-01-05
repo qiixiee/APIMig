@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+com.google.code.gsongson,"add","","2.5",2016-02-18T14:51:36Z
+org.apache.lucenelucene-core,"update","5.3.1","5.4.1",2016-02-18T14:18:08Z
+org.apache.lucenelucene-core,"add","","5.3.1",2016-02-18T13:52:23Z
+commons-iocommons-io,"add","","2.4",2016-02-18T14:26:58Z
+org.apache.lucenelucene-analyzers-common,"update","5.3.1","5.4.1",2016-02-18T14:18:08Z
+org.apache.lucenelucene-analyzers-common,"add","","5.3.1",2016-02-18T13:52:23Z
+org.apache.lucenelucene-queryparser,"add","","5.4.1",2016-02-18T15:26:50Z
+junitjunit,"update","3.8.1","4.12",2016-02-18T13:52:23Z

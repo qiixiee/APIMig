@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","8.6.3","8.4.1",2023-11-28T17:02:06Z
+org.apache.lucenelucene-highlighter,"add","","8.4.1",2023-11-28T17:02:06Z
+org.apache.lucenelucene-analyzers-common,"add","","8.4.1",2023-11-28T17:02:06Z
+org.apache.lucenelucene-queryparser,"update","8.6.3","8.4.1",2023-11-28T17:02:06Z

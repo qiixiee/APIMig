@@ -1,0 +1,10 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","8.8.2","8.10.1",2021-10-30T23:23:09Z
+org.apache.lucenelucene-core,"update","7.4.0","8.8.2",2021-04-13T08:26:49Z
+org.apache.lucenelucene-analyzers-common,"update","8.8.2","8.10.1",2021-10-30T23:23:09Z
+org.apache.lucenelucene-analyzers-common,"update","7.4.0","8.8.2",2021-04-13T08:26:49Z
+org.apache.commonscommons-compress,"update","1.20","1.21",2021-10-30T23:23:09Z
+org.apache.commonscommons-compress,"update","1.17","1.20",2021-04-13T08:26:49Z
+org.apache.commonscommons-math3,"remove","3.6.1","",2021-04-13T08:26:49Z
+org.apache.lucenelucene-queryparser,"update","8.8.2","8.10.1",2021-10-30T23:23:09Z
+org.apache.lucenelucene-queryparser,"update","7.4.0","8.8.2",2021-04-13T08:26:49Z

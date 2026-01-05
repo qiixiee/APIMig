@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+edu.stanford.nlpstanford-corenlp,"add","","3.8.0",2018-05-02T17:04:08Z
+net.sf.py4jpy4j,"add","","0.8.1",2018-02-20T04:09:34Z
+org.apache.lucenelucene-suggest,"add","","4.10.4",2018-03-07T07:44:48Z
+org.apache.lucenelucene-highlighter,"remove","4.10.4","",2018-05-13T23:22:58Z
+org.apache.lucenelucene-highlighter,"add","","4.10.4",2018-05-02T17:04:08Z
+org.jsoupjsoup,"add","","1.8.3",2018-05-02T17:04:08Z
+info.bliki.wikibliki-core,"remove","3.0.19","",2018-02-20T04:09:34Z
+org.apache.opennlpopennlp-tools,"add","","1.8.4",2018-05-02T17:04:08Z

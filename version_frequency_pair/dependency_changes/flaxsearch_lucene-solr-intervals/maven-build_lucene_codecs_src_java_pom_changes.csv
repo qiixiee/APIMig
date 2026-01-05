@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+uk.co.flax.lucene-solr-intervalslucene-core,"add","","unknown",2014-04-01T15:56:10Z
+${project.groupId}lucene-core,"remove","${project.version}","",2014-04-01T15:56:10Z

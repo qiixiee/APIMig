@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-highlighter,"add","","8.11.0",2022-01-06T20:14:53Z
+org.apache.lucenelucene-demo,"remove","8.11.0","",2022-01-06T20:14:53Z
+org.apache.lucenelucene-memory,"add","","8.11.0",2022-01-06T20:14:53Z

@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.springframeworkspring-orm,"add","","unknown",2018-04-30T15:04:29Z
+ch.qos.logbacklogback-classic,"add","","unknown",2018-04-17T15:52:29Z
+org.apache.kafkakafka-clients,"add","","0.10.0.0",2018-05-06T17:16:56Z
+ch.qos.logbacklogback-core,"add","","unknown",2018-04-17T15:52:29Z
+org.mybatismybatis-spring,"add","","unknown",2018-04-30T15:04:29Z
+org.springframework.dataspring-data-redis,"add","","unknown",2018-05-01T13:40:57Z
+org.slf4jslf4j-api,"add","","unknown",2018-04-17T15:52:29Z
+org.mybatismybatis,"add","","unknown",2018-04-30T15:04:29Z
+com.alibabadruid,"add","","unknown",2018-04-30T15:04:29Z
+redis.clientsjedis,"add","","unknown",2018-05-01T13:40:57Z
+mysqlmysql-connector-java,"add","","unknown",2018-04-30T15:47:19Z

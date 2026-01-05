@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-backward-codecs,"add","","9.3.0",2022-09-15T03:39:41Z
+org.apache.lucenelucene-queries,"add","","9.3.0",2022-09-15T03:39:41Z
+org.apache.lucenelucene-grouping,"add","","9.3.0",2022-09-15T03:39:41Z
+org.apache.lucenelucene-core,"update","9.2.0","9.3.0",2022-09-15T03:39:41Z
+org.apache.lucenelucene-codecs,"add","","9.3.0",2022-09-15T03:39:41Z
+org.apache.lucenelucene-highlighter,"add","","9.3.0",2022-09-15T03:39:41Z
+org.apache.lucenelucene-memory,"add","","9.3.0",2022-09-15T03:39:41Z
+org.apache.lucenelucene-facet,"add","","9.3.0",2022-09-15T03:39:41Z
+org.apache.lucenelucene-analyzers-common,"update","8.11.0","8.9.0",2022-09-15T03:39:41Z
+org.apache.lucenelucene-misc,"add","","9.3.0",2022-09-15T03:39:41Z
+org.apache.lucenelucene-queryparser,"add","","9.3.0",2022-09-15T03:39:41Z

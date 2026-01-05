@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+com.fasterxml.jackson.corejackson-databind,"update","2.8.0","2.8.4",2016-11-10T12:18:15Z
+com.fasterxml.jackson.corejackson-databind,"add","","2.8.0",2016-07-19T12:53:29Z
+com.fasterxml.jackson.corejackson-core,"update","2.8.0","2.8.4",2016-11-10T12:18:15Z
+com.fasterxml.jackson.corejackson-core,"add","","2.8.0",2016-07-19T12:53:29Z
+junitjunit,"update","4.8.1","4.12",2016-10-17T09:02:56Z
+org.codehaus.jacksonjackson-mapper-asl,"remove","1.9.2","",2016-07-19T12:53:29Z

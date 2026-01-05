@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+ch.qos.logbacklogback-classic,"add","","unknown",2015-06-17T02:29:55Z
+org.apache.hadoophadoop-core,"remove","unknown","",2015-06-17T02:29:55Z
+org.slf4jlog4j-over-slf4j,"add","","unknown",2015-06-17T02:29:55Z
+org.apache.hadoophadoop-common,"add","","unknown",2015-06-17T02:29:55Z
+org.apache.hadoophadoop-test,"remove","unknown","",2015-06-17T02:29:55Z

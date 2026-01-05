@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+com.janeluoikanalyzer,"add","","2012_u6",2019-11-13T13:20:26Z
+org.apache.lucenelucene-core,"add","","4.10.3",2019-11-13T11:43:03Z
+org.apache.lucenelucene-highlighter,"add","","4.10.3",2019-11-13T13:20:26Z
+org.apache.lucenelucene-analyzers-common,"add","","4.10.3",2019-11-13T11:43:03Z
+org.apache.lucenelucene-queryparser,"add","","4.10.3",2019-11-13T11:43:03Z
+mysqlmysql-connector-java,"update","5.1.30","5.1.47",2019-11-13T13:20:26Z
+mysqlmysql-connector-java,"add","","5.1.30",2019-11-13T11:43:03Z
+junitjunit,"add","","4.12",2019-11-13T11:43:03Z

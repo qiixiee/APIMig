@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"add","","4.10.4",2016-01-27T14:16:42Z
+org.apache.lucenelucene-analyzers-common,"add","","4.10.4",2016-01-27T14:16:42Z
+org.apache.lucenelucene-queryparser,"add","","4.10.4",2016-01-30T09:21:34Z
+info.bliki.wikibliki-core,"add","","3.0.19",2016-01-27T13:12:19Z

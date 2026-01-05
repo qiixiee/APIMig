@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","5.2.1","6.6.0",2017-10-18T23:04:25Z
+org.apache.lucenelucene-codecs,"update","5.2.1","6.6.0",2017-10-18T23:04:25Z
+org.apache.lucenelucene-analyzers-common,"update","5.2.1","6.6.0",2017-10-18T23:04:25Z
+org.apache.lucenelucene-queryparser,"update","5.2.1","6.6.0",2017-10-18T23:04:25Z

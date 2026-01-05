@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+com.puppycrawl.toolscheckstyle,"add","","6.5",2016-10-02T04:24:52Z
+org.apache.maven.scmmaven-scm-provider-gitexe,"add","","1.9",2016-10-02T04:51:02Z

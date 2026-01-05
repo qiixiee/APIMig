@@ -1,0 +1,10 @@
+library,type,old_version,new_version,commit_date
+org.graalvm.polyglotjs-community,"remove","${versions.graalvm}","",2024-03-26T15:31:20Z
+org.graalvm.polyglotjs-community,"add","","${versions.graalvm}",2024-03-25T13:12:40Z
+org.graalvm.polyglotjs-community,"add","","${versions.graalvm}",2024-03-25T13:12:40Z
+org.graalvm.jsjs,"add","","${versions.graalvm}",2024-03-26T15:31:20Z
+org.graalvm.jsjs,"remove","${versions.graalvm}","",2024-03-25T13:12:40Z
+org.graalvm.jsjs,"remove","${versions.graalvm}","",2024-03-25T13:12:40Z
+org.graalvm.polyglotpolyglot,"remove","${versions.graalvm}","",2024-03-26T15:31:20Z
+org.graalvm.polyglotpolyglot,"add","","${versions.graalvm}",2024-03-25T13:12:40Z
+org.graalvm.polyglotpolyglot,"add","","${versions.graalvm}",2024-03-25T13:12:40Z

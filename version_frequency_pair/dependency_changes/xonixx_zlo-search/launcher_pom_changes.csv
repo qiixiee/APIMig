@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.slf4jslf4j-log4j12,"add","","1.6.4",2012-04-20T13:21:39Z
+org.eclipse.jettyjetty-plus,"update","9.2.17.v20160517","8.1.19.v20160209",2016-07-24T19:24:08Z
+org.eclipse.jettyjetty-plus,"update","8.1.1.v20120215","9.2.17.v20160517",2016-07-24T18:03:22Z
+org.eclipse.jettyjetty-plus,"add","","8.1.1.v20120215",2012-04-28T12:04:26Z
+org.slf4jslf4j-api,"add","","1.6.4",2012-04-20T13:21:39Z
+org.eclipse.jettyjetty-server,"update","9.2.17.v20160517","8.1.19.v20160209",2016-07-24T19:24:08Z
+org.eclipse.jettyjetty-server,"update","8.1.1.v20120215","9.2.17.v20160517",2016-07-24T18:03:22Z
+org.eclipse.jettyjetty-jsp,"update","9.2.17.v20160517","8.1.19.v20160209",2016-07-24T19:24:08Z
+org.eclipse.jettyjetty-jsp,"update","8.1.1.v20120215","9.2.17.v20160517",2016-07-24T18:03:22Z
+org.eclipse.jettyjetty-webapp,"update","9.2.17.v20160517","8.1.19.v20160209",2016-07-24T19:24:08Z
+org.eclipse.jettyjetty-webapp,"update","8.1.1.v20120215","9.2.17.v20160517",2016-07-24T18:03:22Z

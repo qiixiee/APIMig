@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.apache.logging.log4jlog4j-api,"remove","2.11.0","",2018-07-19T13:38:36Z
+org.apache.lucenelucene-core,"update","7.3.0","7.3.1",2018-05-31T07:02:02Z
+org.wltea.ik-analyzerik-analyzer,"remove","3.2.8","",2018-05-31T02:02:24Z
+org.slf4jslf4j-api,"add","","unknown",2018-07-19T13:38:36Z
+org.apache.logging.log4jlog4j-core,"remove","2.11.0","",2018-07-19T13:38:36Z
+ org.apache.cassandracassandra-all,"add","","0.8.1",2018-07-19T13:38:36Z

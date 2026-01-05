@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","7.1.0","${lucene.version}",2017-10-24T10:47:10Z
+org.apache.lucenelucene-highlighter,"update","7.1.0","${lucene.version}",2017-10-24T10:47:10Z
+org.apache.lucenelucene-demo,"update","7.1.0","${lucene.version}",2017-10-24T10:47:10Z
+org.apache.lucenelucene-analyzers-smartcn,"update","7.1.0","${lucene.version}",2017-10-24T10:47:10Z
+org.apache.lucenelucene-memory,"update","7.1.0","${lucene.version}",2017-10-24T10:47:10Z
+org.apache.lucenelucene-analyzers-common,"update","7.1.0","${lucene.version}",2017-10-24T10:47:10Z
+org.apache.lucenelucene-queryparser,"update","7.1.0","${lucene.version}",2017-10-24T10:47:10Z

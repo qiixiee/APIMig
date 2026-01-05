@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","4.6.0","7.2.0",2018-03-03T16:18:21Z
+org.apache.lucenelucene-core,"update","7.2.0","4.6.0",2018-03-03T16:16:39Z
+org.apache.lucenelucene-core,"update","4.6.0","7.2.0",2018-01-13T18:53:01Z
+commons-codeccommons-codec,"add","","1.10",2017-12-08T11:49:24Z
+org.apache.lucenelucene-analyzers-common,"update","4.6.0","7.2.0",2018-03-03T16:18:21Z
+org.apache.lucenelucene-analyzers-common,"update","7.2.0","4.6.0",2018-03-03T16:16:39Z
+org.apache.lucenelucene-analyzers-common,"update","4.6.0","7.2.0",2018-01-13T18:53:01Z
+commons-configurationcommons-configuration,"add","","1.6",2017-12-08T11:49:24Z

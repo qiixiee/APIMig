@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-analyzers-common,"update","5.2.0","6.6.0",2017-08-23T03:38:20Z
+org.apache.lucenelucene-queryparser,"update","5.2.0","6.6.0",2017-08-23T03:38:20Z

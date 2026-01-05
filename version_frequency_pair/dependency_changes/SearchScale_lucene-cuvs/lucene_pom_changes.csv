@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+com.fasterxml.jackson.corejackson-databind,"add","","2.17.0",2024-06-09T16:33:00Z
+com.fasterxml.jackson.dataformatjackson-dataformat-csv,"add","","2.17.0",2024-06-09T16:33:00Z

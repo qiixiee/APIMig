@@ -1,0 +1,16 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-backward-codecs,"add","","8.9.0",2021-09-20T14:33:18Z
+org.apache.lucenelucene-core,"add","","8.9.0",2021-09-20T14:33:18Z
+com.hankcs.nlphanlp-lucene-plugin,"add","","1.1.7",2021-09-20T14:33:18Z
+com.google.guavaguava,"update","30.1.1-jre","32.0.0-jre",2023-06-14T22:44:00Z
+com.google.guavaguava,"update","29.0-jre","30.1.1-jre",2021-06-13T11:37:23Z
+com.google.guavaguava,"update","28.0-jre","29.0-jre",2021-03-31T21:07:48Z
+com.google.guavaguava,"update","27.1-jre","28.0-jre",2019-08-21T13:52:22Z
+com.alibabadruid-spring-boot-starter,"add","","1.2.6",2021-06-13T11:37:23Z
+org.apache.lucenelucene-highlighter,"add","","8.9.0",2021-09-20T14:33:18Z
+org.apache.lucenelucene-analyzers-common,"add","","8.9.0",2021-09-20T14:33:18Z
+net.logstash.logbacklogstash-logback-encoder,"add","","6.6",2021-07-25T15:28:43Z
+commons-validatorcommons-validator,"add","","1.6",2019-08-21T13:52:22Z
+org.apache.lucenelucene-queryparser,"add","","8.9.0",2021-09-20T14:33:18Z
+com.graphql-java-kickstartgraphql-spring-boot-starter,"add","","5.10.0",2019-08-24T12:37:36Z
+com.hankcshanlp,"add","","portable-1.8.2",2021-09-20T14:33:18Z

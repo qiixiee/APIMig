@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","4.7.0","${lucene.version}",2014-03-24T19:40:35Z
+org.apache.lucenelucene-memory,"update","4.7.0","${lucene.version}",2014-03-24T19:40:35Z
+org.apache.lucenelucene-analyzers-common,"update","4.7.0","${lucene.version}",2014-03-24T19:40:35Z
+org.apache.lucenelucene-test-framework,"update","4.7.0","${lucene.version}",2014-03-24T19:40:35Z

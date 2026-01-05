@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+com.fasterxml.jackson.corejackson-databind,"update","2.9.9","unknown",2019-07-26T09:32:34Z
+com.fasterxml.jackson.corejackson-databind,"add","","2.9.9",2019-07-02T13:04:43Z
+org.springframework.bootspring-boot-starter-data-redis,"update","2.1.3.RELEASE","unknown",2019-07-26T09:32:34Z
+org.apache.commonscommons-pool2,"update","2.6.2","unknown",2019-07-26T09:32:34Z
+org.apache.commonscommons-pool2,"add","","2.6.2",2019-05-31T10:30:44Z
+org.springframework.cloudspring-cloud-starter-netflix-hystrix,"update","2.1.2.RELEASE","unknown",2019-07-26T09:32:34Z
+org.springframework.cloudspring-cloud-starter-netflix-hystrix,"add","","2.1.2.RELEASE",2019-07-02T13:04:43Z
+org.springframework.bootspring-boot-starter-web,"add","","unknown",2019-07-02T13:04:43Z

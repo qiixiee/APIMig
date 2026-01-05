@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","4.7.0","4.10.0",2014-09-09T02:58:50Z
+org.apache.lucenelucene-codecs,"update","4.7.0","4.10.0",2014-09-09T02:58:50Z
+commons-codeccommons-codec,"add","","1.8",2014-09-16T02:27:50Z
+com.google.guavaguava,"add","","16.0",2014-09-16T02:27:50Z
+org.slf4jslf4j-api,"add","","1.7.5",2014-09-16T02:27:50Z
+org.apache.lucenelucene-analyzers-common,"update","4.7.0","4.10.0",2014-09-09T02:58:50Z
+org.apache.hadoophadoop-common,"remove","2.2.0","",2014-09-16T02:27:50Z
+org.apache.accumuloaccumulo-core,"remove","1.6.0","",2014-09-16T02:27:50Z
+org.apache.accumuloaccumulo-core,"update","1.5.0","1.6.0",2014-05-14T04:06:31Z
+org.mockitomockito-core,"add","","1.9.0",2014-09-16T02:27:50Z
+org.apache.lucenelucene-queryparser,"update","4.7.0","4.10.0",2014-09-09T02:58:50Z

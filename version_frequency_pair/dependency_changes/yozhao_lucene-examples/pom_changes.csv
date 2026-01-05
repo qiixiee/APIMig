@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-queries,"update","4.8.1","4.10.0",2015-04-16T03:50:21Z
+org.apache.lucenelucene-core,"update","4.8.1","4.10.0",2015-04-16T03:50:21Z
+org.apache.lucenelucene-facet,"update","4.8.1","4.10.0",2015-04-16T03:50:21Z
+org.apache.lucenelucene-analyzers-common,"update","4.8.1","4.10.0",2015-04-16T03:50:21Z
+org.apache.lucenelucene-misc,"add","","4.10.0",2015-05-10T04:33:49Z
+org.apache.lucenelucene-queryparser,"update","4.8.1","4.10.0",2015-04-16T03:50:21Z
+org.apache.lucenelucene-join,"add","","4.10.0",2015-12-09T08:45:40Z

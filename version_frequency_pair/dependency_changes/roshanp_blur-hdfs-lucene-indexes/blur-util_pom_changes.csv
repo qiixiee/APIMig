@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.apache.hadoophadoop-core,"remove","${hadoop.version}","",2013-10-28T18:41:08Z
+org.slf4jslf4j-log4j12,"remove","${slf4j.version}","",2013-10-28T18:41:08Z
+org.slf4jslf4j-api,"remove","${slf4j.version}","",2013-10-28T18:41:08Z
+org.apache.hadoophadoop-common,"add","","${hadoop.version}",2013-10-28T18:41:08Z
+org.apache.hadoophadoop-hdfs,"add","","${hadoop.version}",2013-10-28T18:41:08Z
+org.apache.hadoophadoop-client,"remove","${hadoop.version}","",2013-10-24T16:35:58Z

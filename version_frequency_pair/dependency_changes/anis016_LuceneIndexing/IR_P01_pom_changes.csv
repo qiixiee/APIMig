@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+commons-iocommons-io,"add","","2.6",2017-11-25T23:48:36Z
+org.apache.lucenelucene-analyzers-common,"add","","7.1.0",2017-11-19T22:22:30Z
+org.jsoupjsoup,"add","","1.11.1",2017-11-25T21:28:30Z
+org.apache.commonscommons-text,"add","","1.1",2017-11-26T03:01:18Z
+org.apache.lucenelucene-queryparser,"add","","7.1.0",2017-11-19T22:22:30Z

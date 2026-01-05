@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.seleniumhq.seleniumselenium-java,"add","","2.44.0",2020-01-07T08:07:12Z
+junitjunit,"add","","4.11",2020-01-07T08:07:12Z
+com.operaoperadriver,"add","","1.5",2020-01-07T08:07:12Z

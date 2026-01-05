@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+org.springframework.bootspring-boot-starter,"remove","unknown","",2018-11-30T03:28:48Z
+org.springframework.dataspring-data-hadoop,"remove","unknown","",2018-11-30T03:28:48Z
+org.springframework.dataspring-data-hadoop,"add","","unknown",2018-11-30T02:15:18Z
+org.apache.hadoophadoop-client,"add","","2.7.3",2018-11-30T03:28:48Z
+org.apache.hbasehbase-client,"add","","1.4.2",2018-11-30T02:15:18Z
+org.springframework.bootspring-boot-starter-web,"add","","unknown",2018-11-30T03:28:48Z
+org.apache.hbasehbase-common,"add","","1.4.2",2018-11-30T03:28:48Z

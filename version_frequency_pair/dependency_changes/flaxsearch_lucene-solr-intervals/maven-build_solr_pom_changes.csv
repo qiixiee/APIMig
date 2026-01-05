@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.slf4jslf4j-log4j12,"remove","unknown","",2014-04-01T15:56:10Z
+org.slf4jslf4j-api,"remove","unknown","",2014-04-01T15:56:10Z
+org.slf4jjul-to-slf4j,"remove","unknown","",2014-04-01T15:56:10Z
+org.slf4jjcl-over-slf4j,"remove","unknown","",2014-04-01T15:56:10Z
+log4jlog4j,"remove","unknown","",2014-04-01T15:56:10Z

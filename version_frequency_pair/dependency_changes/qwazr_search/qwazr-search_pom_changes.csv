@@ -1,0 +1,17 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-backward-codecs,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+com.qwazrqwazr-binder,"update","${parent.version}","${project.version}",2022-04-01T11:40:22Z
+org.apache.lucenelucene-grouping,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+com.qwazrqwazr-cluster,"update","${parent.version}","${project.version}",2022-04-01T11:40:22Z
+org.apache.lucenelucene-highlighter,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+org.apache.lucenelucene-facet,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+org.apache.lucenelucene-queryparser,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+org.apache.lucenelucene-spatial3d,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+it.unimi.dsifastutil,"update","8.5.8","8.5.9",2022-09-28T17:46:26Z
+org.apache.lucenelucene-core,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+org.apache.lucenelucene-codecs,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+org.apache.lucenelucene-analyzers-stempel,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+com.qwazrqwazr-server,"update","${parent.version}","${project.version}",2022-04-01T11:40:22Z
+org.apache.lucenelucene-spatial-extras,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+org.apache.lucenelucene-analyzers-common,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z
+org.apache.lucenelucene-join,"update","8.11.1","8.11.2",2022-09-28T17:46:26Z

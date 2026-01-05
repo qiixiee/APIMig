@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.springframework.bootspring-boot-starter-data-mongodb,"add","","2.7.18",2024-08-05T15:20:42Z
+org.springframework.bootspring-boot-starter-data-jpa,"update","2.4.2","2.7.18",2024-08-05T14:16:51Z
+org.projectlomboklombok,"add","","1.18.22",2024-08-05T14:16:51Z
+org.mapstructmapstruct-processor,"add","","1.5.5.Final",2024-08-05T14:16:51Z
+org.mapstructmapstruct,"add","","1.5.5.Final",2024-08-05T14:16:51Z
+mysqlmysql-connector-java,"add","","8.0.28",2024-08-05T14:16:51Z

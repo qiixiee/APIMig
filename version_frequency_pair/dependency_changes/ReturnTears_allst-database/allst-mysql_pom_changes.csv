@@ -1,0 +1,15 @@
+library,type,old_version,new_version,commit_date
+org.springframework.bootspring-boot-starter-data-jpa,"add","","unknown",2021-08-31T16:10:20Z
+org.apache.shardingspheresharding-jdbc-core,"add","","4.1.1",2021-08-31T16:10:20Z
+com.alibabadruid-spring-boot-starter,"remove","1.1.22","",2021-08-31T16:10:20Z
+com.alibabadruid-spring-boot-starter,"add","","1.1.22",2020-08-06T08:05:44Z
+org.springframework.bootspring-boot-starter-jdbc,"add","","unknown",2020-08-06T08:05:44Z
+org.apache.shardingspheresharding-transaction-xa-core,"add","","4.1.0",2021-09-05T15:25:36Z
+org.springframework.bootspring-boot-starter,"remove","unknown","",2020-08-06T08:05:44Z
+org.apache.shardingspheresharding-transaction-base-seata-at,"remove","4.1.0","",2021-09-05T17:26:08Z
+org.apache.shardingspheresharding-transaction-base-seata-at,"add","","4.1.0",2021-09-05T15:25:36Z
+mysqlmysql-connector-java,"update","8.0.16","8.0.28",2022-06-21T02:34:40Z
+mysqlmysql-connector-java,"update","unknown","8.0.16",2021-08-31T16:10:20Z
+org.springframework.bootspring-boot-starter-web,"remove","unknown","",2021-08-31T16:10:20Z
+org.springframework.bootspring-boot-starter-web,"add","","unknown",2020-08-06T08:05:44Z
+org.apache.shardingspheresharding-jdbc-spring-boot-starter,"add","","4.1.1",2021-08-31T16:10:20Z

@@ -1,0 +1,15 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","5.1.0","7.2.0",2018-01-09T05:49:53Z
+org.apache.lucenelucene-highlighter,"update","5.1.0","7.2.0",2018-01-09T05:49:53Z
+org.apache.lucenelucene-highlighter,"add","","5.1.0",2015-10-22T04:30:21Z
+org.apache.lucenelucene-analyzers-common,"update","5.1.0","7.2.0",2018-01-09T05:49:53Z
+org.apache.lucenelucene-queryparser,"update","5.1.0","7.2.0",2018-01-09T05:49:53Z
+com.hankcshanlp,"update","portable-1.6.8","portable-1.7.6",2020-02-15T22:44:34Z
+com.hankcshanlp,"update","portable-1.6.7","portable-1.6.8",2018-08-25T21:35:32Z
+com.hankcshanlp,"update","portable-1.5.4","portable-1.6.7",2018-08-18T14:30:39Z
+com.hankcshanlp,"update","portable-1.5.3","portable-1.5.4",2018-02-19T05:19:44Z
+com.hankcshanlp,"update","portable-1.3.2","portable-1.5.3",2018-01-09T05:49:53Z
+com.hankcshanlp,"update","portable-1.3.1","portable-1.3.2",2017-04-27T17:18:35Z
+com.hankcshanlp,"update","portable-1.2.10","portable-1.3.1",2016-12-14T04:08:49Z
+com.hankcshanlp,"update","portable-1.2.9","portable-1.2.10",2016-07-29T10:36:25Z
+com.hankcshanlp,"update","portable-1.2.4","portable-1.2.9",2016-03-30T22:38:56Z

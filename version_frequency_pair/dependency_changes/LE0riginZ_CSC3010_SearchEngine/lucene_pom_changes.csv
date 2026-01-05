@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+com.fasterxml.jackson.corejackson-databind,"add","","2.12.4",2023-07-21T16:36:32Z
+org.owasp.encoderencoder,"add","","1.2.3",2023-07-22T10:06:48Z
+org.apache.lucenelucene-benchmark,"add","","9.7.0",2023-07-25T06:38:49Z
+org.jsoupjsoup,"add","","1.14.3",2023-07-22T10:06:48Z
+org.owasp.encoderencoder-jsp,"add","","1.2.3",2023-07-22T10:06:48Z

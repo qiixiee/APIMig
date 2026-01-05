@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+javax.servletservlet-api,"add","","2.4",2019-06-24T00:54:26Z
+org.zx.es_lucenelucene-expressions,"add","","${es.lucene.version}",2019-06-24T00:54:26Z
+org.zx.es_lucenelucene-facet,"add","","${es.lucene.version}",2019-06-24T00:54:26Z

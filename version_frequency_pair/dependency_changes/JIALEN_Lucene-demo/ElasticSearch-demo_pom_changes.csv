@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.logging.log4jlog4j-api,"add","","2.7",2017-10-31T06:55:15Z
+org.elasticsearch.clienttransport,"add","","5.6.3",2017-10-31T06:55:15Z
+org.apache.logging.log4jlog4j-core,"add","","2.7",2017-10-31T06:55:15Z

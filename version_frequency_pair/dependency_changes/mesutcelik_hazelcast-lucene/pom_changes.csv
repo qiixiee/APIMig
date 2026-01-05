@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","3.6.0","4.6.1",2014-07-16T11:42:41Z
+org.apache.lucenelucene-core,"add","","3.6.0",2014-07-16T08:24:56Z
+org.apache.lucenelucene-analyzers-common,"add","","4.6.1",2014-07-16T11:42:41Z
+com.hazelcasthazelcast-all,"add","","3.3-RC2",2014-07-16T11:50:52Z
+com.hazelcasthazelcast-all,"remove","3.3-RC2","",2014-07-16T11:42:41Z
+com.hazelcasthazelcast-all,"add","","3.3-RC2",2014-07-16T09:39:42Z
+com.hazelcasthazelcast,"remove","3.3-RC2","",2014-07-16T11:50:52Z
+com.hazelcasthazelcast,"add","","3.3-RC2",2014-07-16T11:42:41Z
+org.xerial.snappysnappy-java,"remove","1.1.1","",2014-07-16T11:42:41Z
+org.xerial.snappysnappy-java,"add","","1.1.1",2014-07-16T08:24:56Z
+org.apache.lucenelucene-queryparser,"add","","4.6.1",2014-07-16T11:42:41Z

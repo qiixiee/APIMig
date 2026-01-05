@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-analysis-common,"add","","${lucene.version}",2022-05-16T12:06:49Z
+org.apache.lucenelucene-queries,"add","","${lucene.version}",2018-12-28T21:22:52Z
+org.apache.solrsolr-test-framework,"remove","${lucene.version}","",2022-05-16T12:06:49Z
+org.apache.lucenelucene-analyzers-common,"remove","${lucene.version}","",2022-05-16T12:06:49Z
+${project.groupId}querqy-antlr,"remove","${querqy.antlr.version}","",2020-01-30T13:26:30Z
+org.apache.lucenelucene-test-framework,"add","","${lucene.version}",2022-05-16T12:06:49Z

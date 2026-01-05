@@ -1,0 +1,14 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","5.5.2","5.5.3",2016-11-26T02:49:40Z
+org.apache.lucenelucene-core,"update","4.6.0","5.5.2",2016-10-26T07:40:04Z
+org.apache.lucenelucene-core,"update","3.0.3","4.6.0",2016-10-25T04:40:51Z
+org.apache.lucenelucene-suggest,"update","5.5.2","5.5.3",2016-11-26T02:49:40Z
+org.apache.lucenelucene-suggest,"update","4.6.0","5.5.2",2016-10-26T07:40:04Z
+org.apache.lucenelucene-suggest,"add","","4.6.0",2016-10-25T04:40:51Z
+org.apache.solrsolr-core,"remove","1.4.1","",2016-10-25T04:40:51Z
+com.github.stuxuhaijpinyin,"add","","1.0",2016-10-25T04:40:51Z
+org.apache.lucenelucene-analyzers,"remove","3.0.3","",2016-10-25T04:40:51Z
+org.apache.lucenelucene-queryparser,"update","5.5.2","5.5.3",2016-11-26T02:49:40Z
+org.apache.lucenelucene-queryparser,"update","4.6.0","5.5.2",2016-10-26T07:40:04Z
+org.apache.lucenelucene-queryparser,"add","","4.6.0",2016-10-25T04:40:51Z
+org.apache.lucenelucene-smartcn,"remove","3.0.3","",2016-10-25T04:40:51Z

@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-analyzers-smartcn,"add","","4.10.4",2018-09-17T11:32:23Z
+org.springframework.bootspring-boot-starter-test,"add","","unknown",2018-09-27T03:26:01Z
+org.apache.lucenelucene-queryparser,"add","","4.10.4",2018-09-27T03:26:01Z
+com.haoxy.ikIK,"add","","2012FF",2018-09-17T11:32:23Z

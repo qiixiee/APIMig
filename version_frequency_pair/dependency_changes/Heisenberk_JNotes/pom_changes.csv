@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"add","","3.0.2",2019-04-14T17:16:04Z
+org.apache.lucenelucene-regex,"add","","3.0.2",2019-04-23T21:18:37Z

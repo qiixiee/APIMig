@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.solrsolr,"remove","4.6.0","",2018-12-30T13:55:33Z
+org.apache.solrsolr-solrj,"update","4.6.0","7.6.0",2018-12-30T13:55:33Z
+org.apache.solrsolr-core,"update","4.6.0","7.6.0",2018-12-30T13:55:33Z
+org.apache.lucenelucene-test-framework,"update","4.6.0","7.6.0",2018-12-30T13:55:33Z

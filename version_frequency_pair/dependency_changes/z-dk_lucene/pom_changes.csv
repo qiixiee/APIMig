@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.apache.poipoi-ooxml,"add","","3.17",2018-12-07T02:08:16Z
+dom4jdom4j,"add","","1.6.1",2019-05-18T02:36:47Z
+org.apache.poipoi-scratchpad,"add","","3.17",2018-12-07T03:17:47Z
+org.jsoupjsoup,"add","","1.11.3",2019-05-18T02:36:47Z
+org.apache.poipoi,"add","","3.17",2018-12-07T02:08:16Z

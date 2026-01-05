@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-queries,"add","","4.4.0",2013-09-14T02:51:56Z
+org.apache.lucenelucene-core,"add","","4.4.0",2013-09-14T02:51:56Z
+com.spatial4jspatial4j,"add","","0.3",2013-09-14T02:51:56Z
+org.apache.lucenelucene-facet,"add","","4.4.0",2013-09-16T00:05:01Z
+org.apache.lucenelucene-analyzers-common,"add","","4.4.0",2013-09-14T02:51:56Z
+org.apache.lucenelucene-queryparser,"add","","4.4.0",2013-09-14T02:51:56Z
+org.apache.lucenelucene-spatial,"add","","4.4.0",2013-09-14T02:51:56Z

@@ -1,0 +1,2 @@
+library,type,old_version,new_version,commit_date
+${project.groupId}hongs-serv,"add","","${project.version}",2017-08-23T12:49:36Z

@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+commons-iocommons-io,"update","2.6","2.7",2021-04-26T19:31:10Z
+com.belerwebpinyin4j,"add","","2.5.1",2019-08-16T11:03:44Z
+junitjunit,"remove","4.12","",2019-09-19T11:41:01Z

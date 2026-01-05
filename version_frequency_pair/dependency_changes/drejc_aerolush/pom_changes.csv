@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+com.fasterxml.jackson.corejackson-databind,"update","[2.5,2.6)","[2.6,2.7)",2015-09-23T11:09:42Z
+com.aerospikeaerospike-client,"update","3.1.2","3.1.5",2015-09-23T11:09:42Z
+org.apache.lucenelucene-queries,"add","","5.2.1",2015-07-21T11:57:00Z
+com.fasterxml.jackson.corejackson-core,"update","[2.5,2.6)","[2.6,2.7)",2015-09-23T11:09:42Z
+com.spikeifycore,"update","0.1-alpha-14","0.2.7",2015-09-23T11:09:42Z
+net.trajano.commonscommons-testing,"add","","1.0.1",2015-09-23T11:09:42Z
+org.apache.lucenelucene-analyzers-common,"add","","5.2.1",2015-07-21T11:57:00Z
+com.fasterxml.jackson.corejackson-annotations,"update","[2.5,2.6)","[2.6,2.7)",2015-09-23T11:09:42Z
+org.mockitomockito-all,"add","","1.10.8",2015-09-23T11:09:42Z
+org.apache.lucenelucene-queryparser,"add","","5.2.1",2015-07-21T11:57:00Z
+org.apache.lucenelucene-test-framework,"add","","5.2.1",2015-07-21T11:57:00Z

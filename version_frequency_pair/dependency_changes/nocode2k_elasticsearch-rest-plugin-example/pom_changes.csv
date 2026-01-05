@@ -1,0 +1,13 @@
+library,type,old_version,new_version,commit_date
+org.elasticsearch.testframework,"update","6.6.2","7.15.1",2021-10-14T23:09:15Z
+org.elasticsearch.testframework,"update","6.5.4","6.6.2",2019-03-30T06:07:59Z
+com.google.guavaguava,"update","30.0-jre","31.1-jre",2022-03-14T13:42:24Z
+com.google.guavaguava,"update","23.0","30.0-jre",2021-10-14T23:19:00Z
+com.google.guavaguava,"update","19.0","23.0",2021-10-14T23:17:20Z
+org.elasticsearchelasticsearch,"update","6.6.2","7.15.1",2021-10-14T23:09:15Z
+org.elasticsearchelasticsearch,"update","6.5.4","6.6.2",2019-03-30T06:07:59Z
+org.apache.logging.log4jlog4j-core,"update","2.14.1","2.17.1",2022-03-14T13:42:24Z
+org.apache.logging.log4jlog4j-core,"update","2.9.1","2.14.1",2021-10-14T23:17:20Z
+org.slf4jslf4j-simple,"update","1.7.32","1.7.36",2022-03-14T13:42:24Z
+org.slf4jslf4j-simple,"update","1.7.12","1.7.32",2021-10-14T23:17:20Z
+junitjunit,"update","4.12","4.13.2",2021-10-14T23:17:20Z

@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+de.bieniek-consultingspring-support,"add","","1.0",2017-03-09T22:30:49Z
+de.bieniek-consultinglogstore-jdbc,"add","","1.0",2017-03-10T22:43:11Z
+de.bieniek-consultinglucene-jdbc-backend,"add","","1.0",2017-03-09T20:59:04Z

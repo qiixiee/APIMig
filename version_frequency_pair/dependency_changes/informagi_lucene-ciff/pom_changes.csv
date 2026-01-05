@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","9.5.0","9.9.1",2024-11-27T13:21:17Z
+org.apache.lucenelucene-codecs,"update","9.5.0","9.9.1",2024-11-27T13:21:17Z

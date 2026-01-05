@@ -1,0 +1,14 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","6.1.0","5.0.0",2016-08-04T09:41:14Z
+org.apache.lucenelucene-core,"add","","6.1.0",2016-08-03T09:23:45Z
+org.apache.lucenelucene-codecs,"add","","5.0.0",2016-08-04T09:41:14Z
+commons-langcommons-lang,"add","","2.6",2016-08-04T09:41:14Z
+commons-codeccommons-codec,"add","","1.3",2016-08-04T09:41:14Z
+org.apache.lucenelucene-highlighter,"add","","5.0.0",2016-09-02T07:21:08Z
+org.apache.lucenelucene-analyzers-common,"update","6.1.0","5.0.0",2016-08-04T09:41:14Z
+org.apache.lucenelucene-analyzers-common,"add","","6.1.0",2016-08-03T09:23:45Z
+org.apache.lucenelucene-analyzers,"remove","3.6.2","",2016-08-05T07:07:20Z
+org.apache.lucenelucene-analyzers,"add","","3.6.2",2016-08-03T09:23:45Z
+org.wltea.analyzerIKAnalyzer,"add","","5.0",2016-08-11T09:35:25Z
+org.apache.lucenelucene-queryparser,"add","","5.0.0",2016-08-22T09:55:02Z
+junitjunit,"add","","4.11",2016-08-03T09:23:45Z

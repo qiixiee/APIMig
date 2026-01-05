@@ -1,0 +1,15 @@
+library,type,old_version,new_version,commit_date
+org.springframework.bootspring-boot-starter-security,"add","","unknown",2021-01-13T20:41:09Z
+org.apache.lucenelucene-core,"add","","5.3.1",2021-01-09T14:35:48Z
+commons-iocommons-io,"update","2.6","2.8.0",2021-08-24T11:08:35Z
+commons-iocommons-io,"update","2.8.0","2.6",2021-08-24T11:08:17Z
+commons-iocommons-io,"update","2.6","2.8.0",2021-07-20T23:43:45Z
+commons-iocommons-io,"add","","2.6",2021-01-06T18:18:36Z
+javax.servletjavax.servlet-api,"add","","4.0.1",2021-01-17T16:36:40Z
+org.springframework.bootspring-boot-starter-mail,"add","","2.1.1.RELEASE",2021-01-04T14:32:44Z
+org.apache.lucenelucene-highlighter,"add","","5.3.1",2021-01-09T14:35:48Z
+org.apache.lucenelucene-analyzers-smartcn,"add","","5.3.1",2021-01-09T14:35:48Z
+org.apache.lucenelucene-analyzers-common,"add","","5.3.1",2021-01-09T14:35:48Z
+org.jsoupjsoup,"update","1.8.3","1.14.2",2021-08-24T11:08:17Z
+org.jsoupjsoup,"add","","1.8.3",2021-01-17T16:36:40Z
+org.apache.lucenelucene-queryparser,"add","","5.3.1",2021-01-09T14:35:48Z

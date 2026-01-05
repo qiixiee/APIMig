@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+ch.qos.logbacklogback-classic,"update","1.1.7","1.2.0",2022-02-06T14:42:12Z
+ch.qos.logbacklogback-classic,"update","1.2.0","1.1.7",2021-08-29T15:23:47Z
+ch.qos.logbacklogback-classic,"update","1.1.7","1.2.0",2021-08-29T15:23:43Z
+org.elasticsearch.clienttransport,"update","5.0.0","6.8.17",2021-08-29T15:23:47Z
+org.elasticsearchelasticsearch,"update","5.0.0","6.8.17",2021-08-29T15:23:47Z

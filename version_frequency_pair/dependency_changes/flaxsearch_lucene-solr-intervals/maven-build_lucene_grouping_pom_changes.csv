@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+uk.co.flax.lucene-solr-intervalslucene-core,"add","","unknown",2014-04-01T15:56:10Z
+${project.groupId}lucene-test-framework,"remove","${project.version}","",2014-04-01T15:56:10Z
+${project.groupId}lucene-queries,"remove","${project.version}","",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-test-framework,"add","","unknown",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-queries,"add","","unknown",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-codecs,"add","","unknown",2014-04-01T15:56:10Z
+${project.groupId}lucene-core,"remove","${project.version}","",2014-04-01T15:56:10Z

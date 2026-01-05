@@ -1,0 +1,11 @@
+library,type,old_version,new_version,commit_date
+commons-loggingcommons-logging,"remove","unknown","",2014-11-10T01:05:08Z
+org.apache.hadoophadoop-core,"add","","unknown",2014-11-21T07:38:10Z
+ch.qos.logbacklogback-core,"add","","unknown",2014-11-10T01:05:08Z
+org.slf4jslf4j-log4j12,"remove","unknown","",2014-11-10T01:05:08Z
+org.slf4jjcl-over-slf4j,"remove","unknown","",2014-12-02T03:28:37Z
+ch.qos.logbacklogback-access,"add","","unknown",2014-11-10T01:05:08Z
+org.apache.hadoophadoop-client,"remove","unknown","",2014-11-21T07:38:10Z
+org.mockitomockito-core,"remove","unknown","",2014-11-21T07:38:10Z
+org.codehaus.jacksonjackson-core-asl,"remove","unknown","",2014-12-02T03:28:37Z
+org.codehaus.jacksonjackson-mapper-asl,"remove","unknown","",2014-12-02T03:28:37Z

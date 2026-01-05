@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-queries,"update","${lucene.version}","unknown",2014-11-18T18:39:57Z
+org.apache.lucenelucene-core,"update","${lucene.version}","unknown",2014-11-18T18:39:57Z
+org.apache.lucenelucene-analyzers-common,"add","","unknown",2015-03-26T02:23:26Z
+org.apache.lucenelucene-analyzers-common,"remove","${lucene.version}","",2014-11-18T18:39:57Z
+org.apache.lucenelucene-test-framework,"update","${lucene.version}","unknown",2014-11-18T18:39:57Z

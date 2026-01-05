@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","4.3.0","4.10.0",2016-08-12T06:21:50Z
+org.apache.lucenelucene-analyzers-common,"update","4.3.0","4.10.0",2016-08-12T06:21:50Z
+org.apache.lucenelucene-queryparser,"update","4.3.0","4.10.0",2016-08-12T06:21:50Z

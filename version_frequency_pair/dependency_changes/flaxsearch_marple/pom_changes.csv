@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-backward-codecs,"update","6.4.0","6.5.1",2018-10-09T10:33:41Z
+org.apache.lucenelucene-backward-codecs,"update","6.2.0","6.4.0",2017-01-23T13:10:53Z
+org.apache.lucenelucene-backward-codecs,"add","","6.2.0",2016-10-20T13:32:30Z
+org.apache.lucenelucene-core,"update","6.4.0","6.5.1",2018-10-09T10:33:41Z
+org.apache.lucenelucene-core,"update","6.2.0","6.4.0",2017-01-23T13:10:53Z
+org.apache.lucenelucene-codecs,"add","","6.5.1",2021-09-13T11:31:55Z
+org.apache.lucenelucene-analyzers-common,"update","6.4.0","6.5.1",2018-10-09T10:33:41Z
+org.apache.lucenelucene-analyzers-common,"add","","6.4.0",2017-01-26T10:34:37Z

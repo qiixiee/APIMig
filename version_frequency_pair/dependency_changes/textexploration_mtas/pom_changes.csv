@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-analysis-common,"add","","unknown",2024-03-12T08:26:32Z
+org.apache.solrsolr-scripting,"update","9.5.0","9.6.0",2024-05-13T17:39:17Z
+org.apache.solrsolr-scripting,"add","","9.5.0",2024-03-12T08:26:32Z
+commons-iocommons-io,"add","","2.15.1",2024-03-12T08:26:32Z
+org.locationtech.jtsjts-core,"add","","unknown",2018-11-04T19:04:16Z
+org.locationtech.spatial4jspatial4j,"add","","0.8",2024-03-12T08:26:32Z
+commons-codeccommons-codec,"add","","1.16.1",2024-03-12T08:26:32Z
+org.apache.lucenelucene-spatial-extras,"update","9.9.2","9.10.0",2024-05-13T17:39:17Z
+org.apache.lucenelucene-spatial-extras,"add","","9.9.2",2024-03-12T08:26:32Z
+org.apache.lucenelucene-analyzers-common,"update","9.9.2","9.10.0",2024-05-13T17:39:17Z
+org.apache.lucenelucene-analyzers-common,"update","unknown","9.9.2",2024-03-12T08:26:32Z

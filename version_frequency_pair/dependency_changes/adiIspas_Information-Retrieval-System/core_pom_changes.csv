@@ -1,0 +1,17 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"add","","7.2.1",2018-03-14T21:02:46Z
+adrian.ispashelper,"update","1.0.1-SNAPSHOT","1.2.0-SNAPSHOT",2018-05-15T13:55:51Z
+adrian.ispashelper,"update","1.0.0-SNAPSHOT","1.0.1-SNAPSHOT",2018-03-31T11:47:02Z
+adrian.ispashelper,"update","0.1.1-SNAPSHOT","1.0.0-SNAPSHOT",2018-03-18T17:22:57Z
+adrian.ispashelper,"update","0.2.0-SNAPSHOT","0.1.1-SNAPSHOT",2018-03-17T23:06:03Z
+adrian.ispashelper,"add","","0.2.0-SNAPSHOT",2018-03-17T22:58:46Z
+org.apache.tikatika-parsers,"add","","1.17",2018-03-18T16:14:27Z
+org.apache.lucenelucene-highlighter,"add","","7.2.1",2018-04-02T13:34:37Z
+org.apache.lucenelucene-analyzers-common,"remove","7.2.1","",2018-03-17T22:58:46Z
+org.apache.lucenelucene-analyzers-common,"add","","7.2.1",2018-03-17T14:56:30Z
+org.apache.tikatika-core,"add","","1.17",2018-03-18T16:14:27Z
+log4jlog4j,"add","","1.2.17",2018-03-14T21:02:46Z
+org.apache.lucenelucene-queryparser,"add","","7.2.1",2018-03-14T21:02:46Z
+org.springframework.bootspring-boot-starter-web,"add","","unknown",2018-03-14T21:02:46Z
+org.apache.pdfboxpdfbox,"remove","2.0.8","",2018-03-18T16:14:27Z
+org.apache.pdfboxpdfbox,"add","","2.0.8",2018-03-17T22:58:46Z

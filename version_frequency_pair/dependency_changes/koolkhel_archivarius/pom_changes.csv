@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.hibernatehibernate-annotations,"add","","3.5.2-Final",2010-09-11T12:45:25Z
+org.apache.tapestrytapestry-core,"update","5.0.18","5.1.0.5",2010-09-11T12:45:25Z
+commons-loggingcommons-logging,"remove","1.1.1","",2010-09-11T12:45:25Z
+org.hibernatehibernate-core,"add","","3.5.2-Final",2010-09-11T12:45:25Z
+org.apache.tapestrytapestry-upload,"update","5.0.18","5.1.0.5",2010-09-11T12:45:25Z
+org.hibernatehibernate-entitymanager,"add","","3.5.0-Final",2010-09-11T12:45:25Z
+org.chenillekitchenillekit-tapestry,"update","1.0.0","1.2.0",2010-09-11T12:45:25Z
+org.hibernatehibernate-search,"add","","3.2.0.Final",2010-09-11T12:45:25Z
+postgresqlpostgresql,"update","8.3-603.jdbc4","8.4-701.jdbc4",2010-09-11T12:45:25Z
+org.apache.tapestrytapestry-hibernate-core,"add","","5.1.0.5",2010-09-11T12:45:25Z
+org.apache.tapestrytapestry-hibernate,"update","5.0.18","5.1.0.5",2010-09-11T12:45:25Z

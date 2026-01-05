@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+com.google.cloudgoogle-cloud-core,"add","","${versions.google.cloud.core}",2024-02-19T09:05:28Z
+com.google.cloudgoogle-cloud-core-http,"add","","${versions.google.cloud.core.http}",2024-02-19T09:05:28Z
+com.google.cloudgoogle-cloud-storage,"update","${versions.google.cloud}","${versions.google.cloud.storage}",2024-02-19T09:05:28Z

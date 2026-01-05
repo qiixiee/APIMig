@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.jsonjson,"add","","20180130",2018-06-28T13:27:23Z
+io.krakensjava-grok,"add","","0.1.9",2018-06-28T13:27:23Z
+com.amazonawsaws-java-sdk-sqs,"add","","1.11.335",2018-06-28T13:27:23Z
+com.amazonawsaws-java-sdk-s3,"add","","1.11.340",2018-06-28T13:27:23Z
+io.thekrakengrok,"remove","0.1.5","",2018-06-28T13:27:23Z

@@ -1,0 +1,14 @@
+library,type,old_version,new_version,commit_date
+io.github.zqrferrarilogi-elasticsearch-sql,"remove","1.0.4","",2022-11-17T09:10:51Z
+io.github.zqrferrarilogi-dsl-prase,"remove","1.0.12","",2022-11-17T09:10:51Z
+io.github.zqrferrarilogi-dsl-prase,"update","1.0.8","1.0.12",2022-08-18T03:34:20Z
+io.github.knowstackkf-metrices,"update","1.0.0","1.0.1",2023-02-16T05:49:33Z
+io.github.knowstackkf-metrices,"add","","1.0.0",2022-11-17T09:10:51Z
+io.github.knowstackkf-log,"update","2.0.0","2.0.4",2023-02-16T05:49:33Z
+io.github.knowstackkf-log,"add","","2.0.0",2022-11-17T16:22:40Z
+io.github.knowstackkf-dsl-prase,"update","1.0.0","1.0.1",2023-02-16T05:49:33Z
+io.github.knowstackkf-dsl-prase,"add","","1.0.0",2022-11-17T09:10:51Z
+org.springframework.bootspring-boot-starter-log4j2,"add","","unknown",2022-12-15T07:48:29Z
+io.github.zqrferrarilogi-metrices,"remove","1.0.5","",2022-11-17T09:10:51Z
+io.github.knowstackkf-elasticsearch-sql,"update","1.0.0","1.0.1",2023-02-16T05:49:33Z
+io.github.knowstackkf-elasticsearch-sql,"add","","1.0.0",2022-11-17T09:10:51Z

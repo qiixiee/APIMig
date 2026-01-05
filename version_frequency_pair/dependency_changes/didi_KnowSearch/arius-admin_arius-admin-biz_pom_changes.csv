@@ -1,0 +1,8 @@
+library,type,old_version,new_version,commit_date
+io.github.knowstackkf-elasticsearch-client,"add","","unknown",2022-11-17T09:10:51Z
+io.github.zqrferrarilogi-elasticsearch-client,"remove","unknown","",2022-11-17T09:10:51Z
+io.github.zqrferrarilogi-security-spring-boot-starter,"remove","unknown","",2022-05-25T09:47:15Z
+io.github.zqrferrarilogi-security-spring-boot-starter,"add","","unknown",2022-05-23T14:22:29Z
+com.didichuxing.datachannelarius-admin-client,"remove","unknown","",2022-04-21T02:57:56Z
+com.didichuxing.datachannelarius-admin-client,"add","","unknown",2022-04-19T03:06:36Z
+com.didichuxing.datachannelarius-admin-client,"remove","unknown","",2022-04-18T03:22:17Z

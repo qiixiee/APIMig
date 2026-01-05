@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.solrsolr-solrj,"update","7.3.0","8.1.1",2019-09-13T23:25:33Z
+org.apache.solrsolr-solrj,"update","6.6.0","7.3.0",2018-06-28T22:28:16Z
+org.slf4jslf4j-api,"update","1.7.25","1.7.28",2019-09-13T23:25:33Z
+org.slf4jslf4j-simple,"update","1.7.25","1.7.28",2019-09-13T23:25:33Z

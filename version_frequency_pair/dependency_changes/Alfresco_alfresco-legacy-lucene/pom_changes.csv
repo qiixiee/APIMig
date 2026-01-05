@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","${dependency.lucene.version}","2.4.1",2017-07-26T17:49:23Z
+org.apache.lucenelucene-regex,"update","${dependency.lucene.version}","2.4.1",2017-07-26T17:49:23Z
+org.apache.lucenelucene-snowball,"update","${dependency.lucene.version}","2.4.1",2017-07-26T17:49:23Z
+org.alfrescoalfresco-data-model,"update","6.16","6.17",2017-08-21T23:27:21Z
+org.alfrescoalfresco-data-model,"update","${dependency.alfresco-data-model.version}","6.16",2017-07-26T17:49:23Z
+org.alfrescoalfresco-data-model,"update","${project.version}","${dependency.alfresco-data-model.version}",2016-09-19T13:09:16Z
+org.apache.lucenelucene-analyzers,"update","${dependency.lucene.version}","2.4.1",2017-07-26T17:49:23Z
+org.mockitomockito-all,"update","unknown","1.10.19",2017-07-26T17:49:23Z
+org.mockitomockito-all,"add","","unknown",2014-07-23T11:15:19Z
+junitjunit,"update","unknown","4.12",2017-07-26T17:49:23Z
+junitjunit,"add","","unknown",2016-11-03T17:28:19Z

@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-analysis-common,"add","","unknown",2023-04-24T20:15:04Z
+org.graalvm.nativeimagesvm,"remove","unknown","",2023-07-14T13:31:19Z
+org.graalvm.sdkgraal-sdk,"add","","unknown",2023-07-14T13:31:19Z
+org.apache.lucenelucene-memory,"add","","unknown",2023-04-19T14:18:06Z
+org.apache.lucenelucene-analyzers-common,"remove","unknown","",2023-04-24T20:15:04Z

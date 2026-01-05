@@ -1,0 +1,14 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","6.5.0","6.5.1",2017-04-28T00:39:10Z
+org.apache.lucenelucene-core,"update","6.4.2","6.5.0",2017-04-01T03:55:45Z
+org.apache.lucenelucene-core,"update","6.4.1","6.4.2",2017-03-08T23:21:32Z
+org.apache.lucenelucene-core,"update","6.4.0","6.4.1",2017-02-10T12:48:35Z
+org.apache.lucenelucene-core,"update","6.3.0","6.4.0",2017-01-24T08:27:18Z
+org.apache.lucenelucene-core,"update","5.1.0","6.3.0",2016-12-06T10:08:47Z
+com.carrotsearch.randomizedtestingrandomizedtesting-runner,"add","","2.4.0",2016-12-06T10:08:47Z
+org.apache.lucenelucene-analyzers-common,"update","6.5.0","6.5.1",2017-04-28T00:39:10Z
+org.apache.lucenelucene-analyzers-common,"update","6.4.2","6.5.0",2017-04-01T03:55:45Z
+org.apache.lucenelucene-analyzers-common,"update","6.4.1","6.4.2",2017-03-08T23:21:32Z
+org.apache.lucenelucene-analyzers-common,"update","6.4.0","6.4.1",2017-02-10T12:48:35Z
+org.apache.lucenelucene-analyzers-common,"update","6.3.0","6.4.0",2017-01-24T08:27:18Z
+org.apache.lucenelucene-analyzers-common,"update","5.1.0","6.3.0",2016-12-06T10:08:47Z

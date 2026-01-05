@@ -1,0 +1,16 @@
+library,type,old_version,new_version,commit_date
+org.kamranzafarjtar,"add","","2.2",2014-01-15T18:27:42Z
+org.apache.lucenelucene-core,"update","4.4.0","4.6.0",2013-11-26T13:29:38Z
+org.apache.lucenelucene-core,"add","","4.4.0",2013-10-13T15:17:23Z
+org.jsonjson,"add","","20131018",2013-11-20T14:34:20Z
+org.hamcresthamcrest-all,"add","","1.3",2013-08-04T13:22:01Z
+org.apache.commonscommons-io,"add","","1.3.2",2013-10-13T15:17:23Z
+com.google.guavaguava,"add","","14.0.1",2013-08-04T14:37:11Z
+org.antlrantlr,"add","","3.4",2013-08-04T13:22:01Z
+org.apache.lucenelucene-analyzers-common,"update","4.4.0","4.6.0",2013-11-26T13:29:38Z
+org.apache.lucenelucene-analyzers-common,"add","","4.4.0",2013-10-13T15:17:23Z
+dk.brics.automatonautomaton,"add","","1.11-8",2014-01-15T17:33:39Z
+commons-clicommons-cli,"add","","1.2",2013-11-19T16:43:23Z
+org.mockitomockito-all,"add","","1.9.5",2013-08-19T12:04:25Z
+org.apache.lucenelucene-queryparser,"update","4.4.0","4.6.0",2013-11-26T13:29:38Z
+org.apache.lucenelucene-queryparser,"add","","4.4.0",2013-10-13T15:17:23Z

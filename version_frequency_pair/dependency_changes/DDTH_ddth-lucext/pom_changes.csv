@@ -1,0 +1,17 @@
+library,type,old_version,new_version,commit_date
+com.datastax.cassandracassandra-driver-core,"remove","3.6.0","",2019-06-03T15:27:29Z
+org.javassistjavassist,"update","3.23.1-GA","3.25.0-GA",2019-06-03T15:27:29Z
+org.javassistjavassist,"add","","3.23.1-GA",2018-11-01T05:45:57Z
+org.slf4jlog4j-over-slf4j,"update","1.7.25","1.7.26",2019-06-03T15:27:29Z
+org.slf4jslf4j-api,"update","1.7.25","1.7.26",2019-06-03T15:27:29Z
+com.datastax.ossjava-driver-query-builder,"add","","4.0.1",2019-06-03T15:27:29Z
+com.datastax.ossjava-driver-core,"add","","4.0.1",2019-06-03T15:27:29Z
+org.apache.lucenelucene-queryparser,"update","7.5.0","8.1.1",2019-06-03T15:27:29Z
+com.github.ddthddth-cql-utils,"update","0.4.0.1","1.0.0",2019-06-03T15:27:29Z
+org.apache.lucenelucene-queries,"update","7.5.0","8.1.1",2019-06-03T15:27:29Z
+org.apache.lucenelucene-core,"update","7.5.0","8.1.1",2019-06-03T15:27:29Z
+com.github.ddthddth-cache-adapter-core,"update","0.6.3.3","1.0.0",2019-06-03T15:27:29Z
+com.github.ddthddth-commons-serialization,"update","0.9.1.8","1.1.0",2019-06-03T15:27:29Z
+com.github.ddthddth-commons-jedis,"update","0.9.1.8","1.1.0",2019-06-03T15:27:29Z
+org.apache.lucenelucene-analyzers-common,"update","7.5.0","8.1.1",2019-06-03T15:27:29Z
+redis.clientsjedis,"update","2.9.0","3.0.1",2019-06-03T15:27:29Z

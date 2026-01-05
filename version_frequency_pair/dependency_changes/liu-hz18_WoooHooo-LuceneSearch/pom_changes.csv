@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.mongodbmongodb-driver-legacy,"remove","4.1.1","",2020-11-07T05:15:27Z
+org.mongodbmongodb-driver-sync,"remove","4.1.1","",2020-11-07T05:15:27Z
+org.mongodbmongo-java-driver,"add","","3.9.1",2020-11-07T05:15:27Z
+org.mongodbbson,"add","","3.4.1",2020-11-07T05:15:27Z
+org.mongodbmongodb-driver,"add","","3.4.1",2020-11-07T05:15:27Z
+junitjunit,"update","3.8.1","4.12",2020-11-10T11:59:55Z

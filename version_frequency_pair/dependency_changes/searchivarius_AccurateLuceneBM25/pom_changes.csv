@@ -1,0 +1,16 @@
+library,type,old_version,new_version,commit_date
+org.htmlparserhtmlparser,"add","","2.1",2016-06-22T13:50:36Z
+umasskstem,"add","","3.4",2017-02-01T05:47:52Z
+org.apache.lucenelucene-core,"update","6.0.0","8.0.0",2019-09-05T03:24:20Z
+org.apache.lucenelucene-core,"update","4.10.3","6.0.0",2016-05-22T23:25:00Z
+commons-iocommons-io,"add","","2.4",2015-05-26T09:13:15Z
+org.apache.lucenelucene-codecs,"update","6.0.0","8.0.0",2019-09-05T03:24:20Z
+org.apache.lucenelucene-codecs,"update","4.10.3","6.0.0",2016-05-22T23:25:00Z
+com.google.guavaguava,"add","","12.0",2016-04-28T03:41:50Z
+org.apache.lucenelucene-analyzers-common,"update","6.0.0","8.0.0",2019-09-05T03:24:20Z
+org.apache.lucenelucene-analyzers-common,"update","4.10.3","6.0.0",2016-05-22T23:25:00Z
+org.apache.lucenelucene-benchmark,"update","6.0.0","8.0.0",2019-09-05T03:24:20Z
+org.apache.lucenelucene-benchmark,"add","","6.0.0",2016-08-12T15:42:21Z
+org.apache.lucenelucene-queryparser,"update","6.0.0","8.0.0",2019-09-05T03:24:20Z
+org.apache.lucenelucene-queryparser,"update","4.10.3","6.0.0",2016-05-22T23:25:00Z
+net.sourceforge.nekohtmlnekohtml,"add","","1.9.19",2016-08-12T15:42:21Z

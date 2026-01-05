@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+org.neo4jneo4j-kernel,"update","${project.version}","1.9.M01",2012-11-08T17:39:28Z
+org.neo4jneo4j-graphviz,"update","${project.version}","1.9.M01",2012-11-08T17:39:28Z
+${lucene.groupId}lucene-analyzers-common,"add","","4.0.0",2012-11-08T17:39:28Z
+${lucene.groupId}${lucene.artifactId},"update","3.5.0","4.0.0",2012-11-08T17:39:28Z
+${lucene.groupId}lucene-queryparser,"add","","4.0.0",2012-11-08T17:39:28Z

@@ -1,0 +1,10 @@
+library,type,old_version,new_version,commit_date
+com.fasterxml.jackson.corejackson-databind,"add","","2.9.5",2019-05-01T17:53:58Z
+org.eclipse.jgitorg.eclipse.jgit,"add","","5.3.1.201904271842-r",2019-05-01T17:53:58Z
+com.google.guavaguava,"add","","27.1-jre",2019-05-06T06:02:14Z
+com.fasterxml.jackson.dataformatjackson-dataformat-yaml,"add","","2.9.5",2019-05-01T17:53:58Z
+org.apache.logging.log4jlog4j-slf4j-impl,"add","","2.11.2",2019-05-01T17:53:58Z
+com.atlassian.commonmarkcommonmark,"add","","0.12.1",2019-05-01T17:53:58Z
+com.atlassian.commonmarkcommonmark-ext-gfm-tables,"add","","0.12.1",2019-05-01T17:53:58Z
+com.github.ben-manes.caffeinecaffeine,"remove","2.6.2","",2019-05-06T06:02:14Z
+com.github.ben-manes.caffeinecaffeine,"add","","2.6.2",2019-05-05T14:52:42Z

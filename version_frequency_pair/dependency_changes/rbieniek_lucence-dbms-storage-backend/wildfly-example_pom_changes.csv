@@ -1,0 +1,11 @@
+library,type,old_version,new_version,commit_date
+de.bieniek-consultingspring-cdi-bridge-test,"add","","1.0",2017-03-12T15:58:57Z
+com.squareup.okhttp3okhttp,"add","","unknown",2017-03-13T01:20:43Z
+org.apache.httpcomponentshttpclient,"add","","unknown",2017-03-13T01:20:43Z
+de.bieniek-consultingspring-cdi-bridge-api-test,"add","","1.0",2017-03-13T02:03:58Z
+de.bieniek-consultinglogstore-jdbc-test,"add","","1.0",2017-03-12T15:58:57Z
+org.apache.httpcomponentshttpcore,"add","","unknown",2017-03-12T15:37:27Z
+org.apache.camelcamel-cdi,"add","","unknown",2017-03-14T01:36:00Z
+de.bieniek-consultingspring-support-test,"add","","1.0",2017-03-12T15:58:57Z
+de.bieniek-consultinglucene-jdbc-backend-test,"add","","1.0",2017-03-12T15:58:57Z
+com.zaxxerHikariCP,"add","","unknown",2017-03-14T09:00:26Z

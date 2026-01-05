@@ -1,0 +1,13 @@
+library,type,old_version,new_version,commit_date
+org.assertjassertj-core,"remove","unknown","",2017-10-22T14:02:23Z
+org.apache.lucenelucene-core,"remove","7.1.0","",2017-10-22T14:02:23Z
+org.apache.lucenelucene-highlighter,"remove","7.1.0","",2017-10-22T14:02:23Z
+org.apache.lucenelucene-demo,"remove","7.1.0","",2017-10-22T14:02:23Z
+org.apache.lucenelucene-analyzers-smartcn,"remove","7.1.0","",2017-10-22T14:02:23Z
+org.apache.lucenelucene-memory,"remove","7.1.0","",2017-10-22T14:02:23Z
+org.apache.lucenelucene-analyzers-common,"remove","7.1.0","",2017-10-22T14:02:23Z
+org.springframework.bootspring-boot-starter-test,"remove","unknown","",2017-10-22T14:02:23Z
+org.springframework.restdocsspring-restdocs-mockmvc,"remove","unknown","",2017-10-22T14:02:23Z
+org.apache.lucenelucene-queryparser,"remove","7.1.0","",2017-10-22T14:02:23Z
+mysqlmysql-connector-java,"remove","unknown","",2017-10-22T14:02:23Z
+junitjunit,"remove","4.9","",2017-10-22T14:02:23Z

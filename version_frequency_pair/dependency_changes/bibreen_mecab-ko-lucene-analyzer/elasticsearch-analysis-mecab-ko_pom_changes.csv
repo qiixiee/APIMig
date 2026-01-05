@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+com.github.bibreenmecab-ko-mecab-loader,"update","0.13.3-SNAPSHOT","0.14.0-SNAPSHOT",2014-02-08T12:39:21Z
+com.github.bibreenmecab-ko-mecab-loader,"update","0.13.2-SNAPSHOT","0.13.3-SNAPSHOT",2013-10-28T06:26:53Z
+com.github.bibreenmecab-ko-mecab-loader,"update","0.13.1-SNAPSHOT","0.13.2-SNAPSHOT",2013-10-21T05:44:45Z
+com.github.bibreenmecab-ko-mecab-loader,"update","0.13.0-SNAPSHOT","0.13.1-SNAPSHOT",2013-10-02T02:33:52Z
+com.github.bibreenmecab-ko-lucene-analyzer,"update","0.13.3-SNAPSHOT","0.14.0-SNAPSHOT",2014-02-08T12:39:21Z
+com.github.bibreenmecab-ko-lucene-analyzer,"update","0.13.2-SNAPSHOT","0.13.3-SNAPSHOT",2013-10-28T06:26:53Z
+com.github.bibreenmecab-ko-lucene-analyzer,"update","0.13.1-SNAPSHOT","0.13.2-SNAPSHOT",2013-10-21T05:44:45Z
+com.github.bibreenmecab-ko-lucene-analyzer,"update","0.13.0-SNAPSHOT","0.13.1-SNAPSHOT",2013-10-02T02:33:52Z

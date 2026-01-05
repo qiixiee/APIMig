@@ -1,0 +1,6 @@
+library,type,old_version,new_version,commit_date
+commons-iocommons-io,"update","2.11.0","2.14.0",2024-10-03T17:01:49Z
+commons-iocommons-io,"update","2.7","2.11.0",2022-02-06T11:49:07Z
+org.apache.commonscommons-lang3,"update","3.8","3.12.0",2022-02-06T11:49:07Z
+org.junitjunit-bom,"add","","5.8.2",2022-02-06T11:49:07Z
+org.junit.jupiterjunit-jupiter,"add","","unknown",2022-02-06T11:49:07Z

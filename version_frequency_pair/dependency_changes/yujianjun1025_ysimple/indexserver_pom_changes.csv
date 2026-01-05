@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+ch.qos.logbacklogback-classic,"add","","unknown",2016-02-11T03:50:53Z
+ch.qos.logbacklogback-core,"add","","unknown",2016-02-11T03:50:53Z
+ch.qos.logbacklogback-access,"add","","unknown",2016-02-11T03:50:53Z

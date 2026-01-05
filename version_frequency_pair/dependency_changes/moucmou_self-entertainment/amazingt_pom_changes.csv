@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.hibernate.javax.persistencehibernate-jpa-2.1-api,"remove","1.0.0.Final","",2019-07-26T09:32:34Z
+com.github.ulisesbocchiojasypt-spring-boot-starter,"update","1.16","unknown",2019-07-26T09:32:34Z
+com.fasterxml.jackson.corejackson-databind,"remove","2.9.5","",2019-07-26T09:32:34Z
+com.fasterxml.jackson.corejackson-core,"remove","2.9.5","",2019-07-26T09:32:34Z
+org.springframework.bootspring-boot-starter-data-jpa,"remove","unknown","",2019-07-26T09:32:34Z
+com.fasterxml.jackson.corejackson-annotations,"remove","2.9.5","",2019-07-26T09:32:34Z

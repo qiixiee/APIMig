@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.apache.solrsolr-solrj,"add","","5.0.0",2015-04-15T05:30:50Z
+org.lappsgridservice-grid-libs,"remove","1.1.0","",2016-02-27T09:34:50Z
+org.lappsgridservice-grid-libs,"add","","1.1.0",2015-04-15T05:30:50Z
+org.lappsgridcore,"add","","2.0.2",2016-02-27T09:34:50Z
+org.lappsgridall,"remove","2.0.0","",2016-02-27T09:34:50Z
+org.lappsgridall,"add","","2.0.0",2015-04-15T05:30:50Z

@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.hibernate.searchhibernate-search-backend-lucene,"remove","${version.hibernate.search6}","",2020-11-27T13:13:26Z
+org.hibernate.searchhibernate-search-backend-lucene,"add","","${version.hibernate.search6}",2020-11-25T18:55:20Z
+org.assertjassertj-core,"remove","${version.assertj}","",2020-11-27T13:13:26Z
+org.assertjassertj-core,"add","","${version.assertj}",2020-11-25T18:55:20Z
+org.hibernate.performancehibernate-search-benchmark-model,"remove","${project.version}","",2021-05-21T07:51:26Z
+org.hibernate.performancehibernate-search-benchmark-model,"add","","${project.version}",2021-05-21T07:47:32Z
+org.hibernate.search.benchmarkhibernate-search-benchmark-model,"add","","${project.version}",2021-05-21T07:51:26Z
+org.hibernate.performancehibernate-search-performance-model,"remove","${project.version}","",2021-05-21T07:47:32Z
+org.junit.jupiterjunit-jupiter-api,"remove","${version.junit.jupiter}","",2021-05-21T12:17:45Z
+org.junit.jupiterjunit-jupiter-api,"add","","${version.junit.jupiter}",2020-11-25T18:55:20Z
+org.hibernate.searchhibernate-search-mapper-orm,"update","6.0.0.CR1","${version.hibernate.search6}",2020-11-23T09:16:09Z

@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.apache.sparkspark-core_2.12,"add","","3.3.1",2022-11-03T15:16:47Z
+org.apache.sparkspark-core_2.13,"remove","3.3.1","",2022-11-03T15:16:47Z
+org.apache.sparkspark-core_2.13,"add","","3.3.1",2022-10-24T11:52:20Z
+org.apache.lucenelucene-core,"add","","9.4.0",2022-10-24T11:52:20Z
+org.apache.commonscommons-lang3,"remove","3.12.0","",2022-11-13T15:02:34Z
+org.apache.lucenelucene-analyzers-common,"add","","8.11.2",2022-10-24T15:47:57Z
+org.apache.sparkspark-sql_2.12,"add","","3.3.1",2022-11-03T15:16:47Z
+org.apache.hadoophadoop-common,"remove","3.3.4","",2022-11-03T15:16:47Z
+org.apache.hadoophadoop-common,"add","","3.3.4",2022-10-24T11:52:20Z
+org.apache.commonscommons-compress,"remove","1.21","",2022-11-13T15:02:34Z
+org.apache.lucenelucene-queryparser,"add","","9.4.1",2022-10-26T13:02:50Z

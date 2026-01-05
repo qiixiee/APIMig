@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.slf4jslf4j-log4j12,"add","","unknown",2014-04-01T15:56:10Z
+org.slf4jslf4j-api,"add","","unknown",2014-04-01T15:56:10Z
+org.slf4jjul-to-slf4j,"add","","unknown",2014-04-01T15:56:10Z
+org.slf4jjcl-over-slf4j,"add","","unknown",2014-04-01T15:56:10Z
+log4jlog4j,"add","","unknown",2014-04-01T15:56:10Z
+org.apache.httpcomponentshttpcore,"add","","unknown",2014-04-01T15:56:10Z

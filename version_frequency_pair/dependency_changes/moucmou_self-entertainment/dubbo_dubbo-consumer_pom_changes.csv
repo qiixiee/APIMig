@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.jboss.resteasyresteasy-client,"remove","3.6.1.Final","",2019-07-04T11:37:33Z
+org.jboss.resteasyresteasy-client,"add","","3.6.1.Final",2019-05-30T11:42:11Z
+dubbo.custom.basebase,"add","","1.0.0-SNAPSHOT",2019-09-19T11:41:01Z
+dubbo.custom.basedubbo,"remove","1.0.0-SNAPSHOT","",2019-09-19T11:41:01Z
+dubbo.custom.basedubbo,"add","","1.0.0-SNAPSHOT",2019-07-04T11:37:33Z
+org.springframework.bootspring-boot-starter-web,"add","","unknown",2019-07-26T14:08:13Z

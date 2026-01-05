@@ -1,0 +1,14 @@
+library,type,old_version,new_version,commit_date
+org.hsqldbhsqldb,"add","","2.7.2",2023-10-30T10:39:25Z
+org.apache.lucenelucene-suggest,"add","","9.8.0",2023-10-30T10:39:25Z
+org.springframework.bootspring-boot-starter-mail,"add","","unknown",2023-10-22T01:30:01Z
+org.springframework.bootspring-boot-starter-data-jpa,"add","","unknown",2023-10-22T01:30:01Z
+org.apache.commonscommons-csv,"add","","1.10.0",2023-10-30T10:39:25Z
+org.apache.lucenelucene-demo,"add","","9.8.0",2023-10-30T10:39:25Z
+org.springframework.bootspring-boot-starter-tomcat,"add","","unknown",2023-10-22T01:30:01Z
+org.springframework.securityspring-security-test,"add","","unknown",2023-10-22T01:30:01Z
+com.h2databaseh2,"add","","unknown",2023-10-22T01:30:01Z
+org.springframework.bootspring-boot-starter-test,"add","","unknown",2023-10-22T01:30:01Z
+org.projectlomboklombok,"add","","unknown",2023-10-22T01:30:01Z
+org.springframework.bootspring-boot-starter-web,"add","","unknown",2023-10-22T01:30:01Z
+org.springframework.bootspring-boot-starter-quartz,"add","","unknown",2023-10-22T01:30:01Z

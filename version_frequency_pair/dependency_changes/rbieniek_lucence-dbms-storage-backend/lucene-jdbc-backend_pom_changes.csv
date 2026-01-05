@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+de.bieniek-consultingspring-support,"add","","1.0",2017-03-09T22:30:49Z
+org.slf4jslf4j-api,"add","","unknown",2017-03-09T22:30:49Z
+de.bieniek-consultingspring-cdi-bridge-api,"add","","1.0",2017-03-13T02:03:58Z
+org.mockitomockito-all,"add","","unknown",2017-03-09T22:30:49Z

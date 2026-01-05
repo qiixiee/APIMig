@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-highlighter,"remove","${lucene.highlighter.version}","",2015-09-10T18:00:39Z
+org.apache.lucenelucene-analyzers-common,"add","","${lucene.core.version}",2015-09-10T18:00:39Z

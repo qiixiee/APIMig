@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-codecs,"add","","${project.version}",2017-01-09T12:27:58Z
+org.apache.lucenelucene-test-framework,"add","","${project.version}",2017-01-09T12:27:58Z

@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+${project.groupId}lucene-misc,"remove","${project.version}","",2014-04-01T15:56:10Z
+${project.groupId}lucene-misc,"add","","${project.version}",2013-09-25T15:49:55Z
+uk.co.flax.lucene-solr-intervalslucene-core,"add","","unknown",2014-04-01T15:56:10Z
+${project.groupId}lucene-analyzers-common,"remove","${project.version}","",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-misc,"add","","unknown",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-analyzers-common,"add","","unknown",2014-04-01T15:56:10Z
+${project.groupId}lucene-test-framework,"remove","${project.version}","",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-test-framework,"add","","unknown",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-queries,"add","","unknown",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-codecs,"add","","unknown",2014-04-01T15:56:10Z
+${project.groupId}lucene-core,"remove","${project.version}","",2014-04-01T15:56:10Z

@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","8.7.0","8.10.0",2021-10-04T20:31:15Z
+org.apache.lucenelucene-core,"update","8.1.0","8.7.0",2020-12-16T17:13:31Z
+org.apache.lucenelucene-analyzers-common,"update","8.7.0","8.10.0",2021-10-04T20:31:15Z
+org.apache.lucenelucene-analyzers-common,"update","8.1.0","8.7.0",2020-12-16T17:13:31Z

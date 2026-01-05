@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.apache.antant,"add","","unknown",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-core,"add","","unknown",2014-04-01T15:56:10Z
+com.carrotsearch.randomizedtestingjunit4-ant,"add","","unknown",2014-04-01T15:56:10Z
+${project.groupId}lucene-codecs,"remove","${project.version}","",2014-04-01T15:56:10Z
+uk.co.flax.lucene-solr-intervalslucene-codecs,"add","","unknown",2014-04-01T15:56:10Z
+${project.groupId}lucene-core,"remove","${project.version}","",2014-04-01T15:56:10Z

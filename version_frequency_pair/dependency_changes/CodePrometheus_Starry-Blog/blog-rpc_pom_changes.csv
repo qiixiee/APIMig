@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.commonscommons-pool2,"add","","${pool2.version}",2023-02-18T05:02:16Z
+com.star.adminblog-admin,"remove","7.0","",2023-02-18T05:02:16Z
+org.springframework.bootspring-boot-starter-quartz,"remove","unknown","",2023-02-18T05:02:16Z

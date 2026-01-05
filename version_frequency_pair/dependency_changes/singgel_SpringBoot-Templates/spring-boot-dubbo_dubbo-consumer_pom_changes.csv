@@ -1,0 +1,3 @@
+library,type,old_version,new_version,commit_date
+com.hks.exampledubbo-api,"add","","${project.parent.version}",2018-11-14T09:54:18Z
+io.ymq.exampledubbo-api,"remove","${project.parent.version}","",2018-11-14T09:54:18Z

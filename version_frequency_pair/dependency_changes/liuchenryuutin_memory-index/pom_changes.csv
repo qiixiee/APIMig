@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.openjdk.jmhjmh-generator-annprocess,"add","","1.36",2023-12-01T10:31:22Z
+org.openjdk.jmhjmh-core,"add","","1.36",2023-12-01T10:31:22Z
+com.carrotsearchhppc,"add","","0.9.1",2023-12-01T10:31:22Z
+org.apache.lucenelucene-join,"add","","8.3.0",2023-12-01T10:31:22Z

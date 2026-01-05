@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.springframeworkspring-webmvc,"remove","4.2.2.RELEASE","",2018-01-08T13:32:16Z
+org.springframeworkspring-beans,"remove","4.2.2.RELEASE","",2018-01-08T13:32:16Z
+javax.servletservlet-api,"remove","3.0-alpha-1","",2018-01-08T14:46:06Z
+javax.servletjavax.servlet-api,"add","","3.1.0",2018-01-08T14:46:06Z
+org.springframeworkspring-context,"remove","4.2.2.RELEASE","",2018-01-08T13:32:16Z
+org.mybatismybatis-spring,"remove","1.3.1","",2018-01-08T13:32:16Z
+org.apache.lucenelucene-analyzers-smartcn,"add","","6.0.0",2018-01-08T13:32:16Z
+org.mybatismybatis,"remove","3.4.0","",2018-01-08T13:32:16Z
+org.springframeworkspring-jdbc,"remove","4.2.2.RELEASE","",2018-01-08T13:32:16Z
+org.springframeworkspring-context-support,"remove","4.2.2.RELEASE","",2018-01-08T13:32:16Z
+org.apache.tikatika-app,"add","","1.13",2018-01-08T13:32:16Z

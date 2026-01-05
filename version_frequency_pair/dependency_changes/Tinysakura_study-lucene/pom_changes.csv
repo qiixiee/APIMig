@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-grouping,"update","5.3.1","7.2.1",2018-09-17T09:02:43Z
+org.apache.lucenelucene-grouping,"add","","5.3.1",2018-09-17T07:43:28Z
+org.apache.lucenelucene-suggest,"add","","7.2.1",2018-09-17T02:55:05Z
+org.apache.lucenelucene-highlighter,"add","","7.2.1",2018-09-15T14:26:39Z
+org.apache.lucenelucene-analyzers-smartcn,"add","","7.2.0",2018-09-15T14:26:39Z
+org.apache.lucenelucene-facet,"add","","7.2.1",2018-09-17T14:39:33Z

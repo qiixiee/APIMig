@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.hamcresthamcrest-library,"remove","1.3","",2016-12-12T17:39:41Z
+com.google.guavaguava,"remove","14.0","",2015-03-12T20:06:51Z
+org.hamcresthamcrest,"remove","2.1","",2020-02-23T13:02:40Z
+org.hamcresthamcrest,"add","","2.1",2019-05-14T08:39:06Z
+org.mockitomockito-core,"remove","2.27.0","",2020-02-23T13:02:40Z
+org.mockitomockito-core,"add","","2.27.0",2019-05-14T08:39:06Z
+org.mockitomockito-core,"remove","1.10.19","",2016-12-12T17:39:41Z
+org.mockitomockito-core,"add","","1.10.19",2016-09-04T10:13:24Z
+junitjunit,"remove","4.12","",2020-02-23T13:02:40Z
+junitjunit,"add","","4.12",2019-05-14T08:39:06Z
+junitjunit,"remove","4.11","",2016-12-12T17:39:41Z

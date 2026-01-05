@@ -1,0 +1,16 @@
+library,type,old_version,new_version,commit_date
+org.antlrantlr4-runtime,"add","","4.5.1-1",2017-01-09T07:35:29Z
+org.apache.lucenelucene-expressions,"add","","${project.version}",2017-01-09T07:35:29Z
+org.apache.lucenelucene-facet,"add","","${project.version}",2017-01-09T07:35:29Z
+org.ow2.asmasm-commons,"add","","5.1",2017-01-09T07:35:29Z
+org.ow2.asmasm,"add","","5.1",2017-01-09T07:35:29Z
+org.apache.lucenelucene-queryparser,"add","","${project.version}",2017-01-09T07:35:29Z
+org.apache.lucenelucene-sandbox,"add","","${project.version}",2017-01-09T07:35:29Z
+org.apache.lucenelucene-queries,"add","","${project.version}",2017-01-09T07:35:29Z
+org.apache.lucenelucene-core,"add","","${project.version}",2017-01-09T07:35:29Z
+javax.servletservlet-api,"add","","2.4",2017-01-09T07:35:29Z
+org.apache.lucenelucene-codecs,"add","","${project.version}",2017-01-09T07:35:29Z
+com.carrotsearch.randomizedtestingrandomizedtesting-runner,"add","","2.4.0",2017-01-09T07:35:29Z
+org.apache.lucenelucene-analyzers-common,"add","","${project.version}",2017-01-09T07:35:29Z
+junitjunit,"add","","4.10",2017-01-09T07:35:29Z
+org.apache.lucenelucene-test-framework,"add","","${project.version}",2017-01-09T07:35:29Z

@@ -1,0 +1,9 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"add","","4.9.0",2014-07-10T09:50:46Z
+org.apache.tikatika-parsers,"add","","1.5",2014-07-23T03:11:13Z
+org.apache.lucenelucene-analyzers-smartcn,"add","","4.9.0",2014-07-10T09:50:46Z
+org.apache.lucenelucene-analyzers-common,"add","","4.9.0",2014-07-10T09:50:46Z
+IKAnalyzerIKAnalyzer,"add","","2012FF_hf1",2014-07-25T07:36:06Z
+org.apache.tikatika-core,"add","","1.5",2014-07-23T03:11:13Z
+org.apache.lucenelucene-queryparser,"add","","4.9.0",2014-07-10T09:50:46Z
+junitjunit,"add","","4.11",2014-07-10T09:50:46Z

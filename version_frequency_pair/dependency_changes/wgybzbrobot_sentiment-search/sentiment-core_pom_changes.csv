@@ -1,0 +1,17 @@
+library,type,old_version,new_version,commit_date
+${project.groupId}sentiment-cache,"remove","${project.version}","",2014-08-29T08:27:00Z
+org.apache.solrsolr-solrj,"add","","unknown",2014-12-02T03:28:37Z
+commons-loggingcommons-logging,"remove","unknown","",2014-11-10T01:05:08Z
+org.slf4jslf4j-log4j12,"remove","unknown","",2014-11-10T01:05:08Z
+org.slf4jslf4j-api,"add","","unknown",2014-12-02T03:28:37Z
+org.slf4jslf4j-api,"remove","unknown","",2014-11-10T01:05:08Z
+${project.groupId}sentiment-solr,"remove","${project.version}","",2014-12-02T03:28:37Z
+${project.groupId}sentiment-solr,"add","","${project.version}",2014-05-06T04:23:33Z
+${project.groupId}sentiment-dao,"add","","${project.version}",2014-12-02T03:28:37Z
+${project.groupId}sentiment-dao,"remove","${project.version}","",2014-05-06T04:23:33Z
+${project.groupId}sentiment-dao,"add","","${project.version}",2014-04-29T11:43:57Z
+zx.softredis-client,"add","","1.2.0",2014-12-02T03:28:37Z
+zx.softcommon-utils,"remove","1.0.0","",2014-12-03T12:11:42Z
+zx.softcommon-utils,"add","","1.0.0",2014-12-02T03:28:37Z
+org.codehaus.jacksonjackson-core-asl,"remove","unknown","",2014-12-02T03:28:37Z
+org.codehaus.jacksonjackson-mapper-asl,"remove","unknown","",2014-12-02T03:28:37Z

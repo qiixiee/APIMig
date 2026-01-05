@@ -1,0 +1,11 @@
+library,type,old_version,new_version,commit_date
+org.apache.poipoi-ooxml,"remove","unknown","",2022-03-08T14:15:42Z
+org.apache.poipoi-ooxml-schemas,"remove","unknown","",2022-03-08T14:15:42Z
+javax.annotationjavax.annotation-api,"remove","unknown","",2022-03-08T14:15:42Z
+org.apache.commonscommons-collections4,"add","","unknown",2022-02-22T19:49:05Z
+com.itextpdfitextpdf,"remove","unknown","",2022-03-08T14:15:42Z
+org.projectlomboklombok,"add","","unknown",2022-02-12T15:52:09Z
+org.apache.slingorg.apache.sling.api,"update","2.16.2","unknown",2022-02-18T08:16:08Z
+org.apache.slingorg.apache.sling.api,"add","","2.16.2",2022-02-12T15:52:09Z
+org.apache.pdfboxpdfbox,"remove","unknown","",2022-03-08T14:15:42Z
+org.apache.poipoi,"remove","unknown","",2022-03-08T14:15:42Z

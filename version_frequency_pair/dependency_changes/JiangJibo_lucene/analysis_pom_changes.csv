@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"remove","unknown","",2019-05-21T09:38:20Z
+org.apache.lucenelucene-analyzers-common,"remove","unknown","",2020-11-17T02:05:20Z
+org.apache.lucenelucene-test-framework,"remove","unknown","",2020-12-30T01:57:29Z

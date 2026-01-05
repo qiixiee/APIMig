@@ -1,0 +1,2 @@
+library,type,old_version,new_version,commit_date
+com.qwazrqwazr-server,"update","1.5.2-SNAPSHOT","${project.version}",2022-04-01T11:45:12Z

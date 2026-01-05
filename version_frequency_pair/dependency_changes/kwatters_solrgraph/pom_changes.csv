@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.apache.solrsolr-core,"update","4.10.3","8.4.0",2020-10-13T18:05:29Z
+com.thoughtworks.xstreamxstream,"update","1.4.16","1.4.18",2021-08-25T15:24:18Z
+com.thoughtworks.xstreamxstream,"update","1.4.15","1.4.16",2021-03-22T23:46:03Z
+com.thoughtworks.xstreamxstream,"update","1.4.13-java7","1.4.15",2020-12-21T16:46:55Z
+com.thoughtworks.xstreamxstream,"update","1.4.7","1.4.13-java7",2020-11-16T20:29:52Z
+junitjunit,"update","4.10","4.13.1",2020-10-13T03:53:29Z

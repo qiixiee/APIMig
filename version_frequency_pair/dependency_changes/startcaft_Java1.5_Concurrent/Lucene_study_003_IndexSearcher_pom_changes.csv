@@ -1,0 +1,7 @@
+library,type,old_version,new_version,commit_date
+org.apache.poipoi-ooxml,"add","","3.8",2016-04-27T02:25:02Z
+org.apache.poipoi-ooxml-schemas,"add","","3.8",2016-04-27T02:25:02Z
+org.apache.lucenelucene-analyzers-smartcn,"add","","5.2.1",2016-04-27T02:25:02Z
+org.apache.poipoi-scratchpad,"add","","3.8",2016-04-27T02:25:02Z
+org.apache.pdfboxpdfbox,"add","","1.8.9",2016-04-27T02:25:02Z
+org.apache.poipoi,"add","","3.8",2016-04-27T02:25:02Z

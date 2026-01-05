@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+info.bbdcommon-utils,"add","","1.0.0",2017-03-30T12:40:00Z
+zx.softcommon-utils,"remove","1.1.0","",2017-03-30T12:40:00Z
+zx.softcommon-utils,"update","1.0.0","1.1.0",2014-12-28T07:25:28Z
+zx.softcommon-utils,"add","","1.0.0",2014-12-11T09:57:10Z

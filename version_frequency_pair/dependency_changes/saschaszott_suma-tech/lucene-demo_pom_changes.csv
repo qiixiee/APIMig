@@ -1,0 +1,13 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-core,"update","8.1.1","8.5.2",2020-06-27T05:31:15Z
+org.apache.lucenelucene-core,"update","7.3.0","8.1.1",2019-07-03T07:15:34Z
+commons-iocommons-io,"update","2.6","2.7",2020-06-27T05:31:15Z
+commons-iocommons-io,"add","","2.6",2018-06-28T13:24:30Z
+org.apache.lucenelucene-suggest,"update","8.1.1","8.5.2",2020-06-27T05:31:15Z
+org.apache.lucenelucene-suggest,"add","","8.1.1",2019-07-03T09:50:47Z
+org.apache.lucenelucene-analyzers-common,"update","8.1.1","8.5.2",2020-06-27T05:31:15Z
+org.apache.lucenelucene-analyzers-common,"update","7.3.0","8.1.1",2019-07-03T07:15:34Z
+org.apache.lucenelucene-analyzers-common,"add","","7.3.0",2018-06-28T13:24:30Z
+org.apache.lucenelucene-queryparser,"update","8.1.1","8.5.2",2020-06-27T05:31:15Z
+org.apache.lucenelucene-queryparser,"update","7.3.0","8.1.1",2019-07-03T07:15:34Z
+org.apache.lucenelucene-queryparser,"add","","7.3.0",2018-06-28T13:24:30Z

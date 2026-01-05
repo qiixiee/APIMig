@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+com.google.guavaguava,"add","","29.0-jre",2020-09-11T01:47:23Z
+org.apache.lucenelucene-analyzers-common,"add","","unknown",2019-05-27T09:52:00Z
+com.github.maltalexineter,"add","","0.1.2",2020-09-11T01:47:23Z

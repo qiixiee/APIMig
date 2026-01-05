@@ -1,0 +1,10 @@
+library,type,old_version,new_version,commit_date
+net.sourceforge.pinyin4jpinyin4j,"remove","2.5.0","",2016-06-06T07:23:23Z
+com.belerwebpinyin4j,"add","","2.5.0",2016-06-06T07:23:23Z
+org.apache.lucenelucene-analyzers-common,"update","6.2.0","7.1.0",2017-11-06T02:39:56Z
+org.apache.lucenelucene-analyzers-common,"update","5.5.2","6.2.0",2016-11-14T09:24:58Z
+org.apache.lucenelucene-analyzers-common,"update","5.5.0","5.5.2",2016-09-06T04:41:10Z
+org.apache.lucenelucene-test-framework,"update","6.2.0","7.1.0",2017-11-06T02:39:56Z
+org.apache.lucenelucene-test-framework,"update","5.5.2","6.2.0",2016-11-14T09:24:58Z
+org.apache.lucenelucene-test-framework,"update","5.5.0","5.5.2",2016-09-06T04:41:10Z
+org.apache.lucenelucene-test-framework,"add","","5.5.0",2016-06-06T07:23:23Z

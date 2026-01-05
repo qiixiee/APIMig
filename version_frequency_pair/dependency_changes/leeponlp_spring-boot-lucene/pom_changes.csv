@@ -1,0 +1,5 @@
+library,type,old_version,new_version,commit_date
+org.springframework.bootspring-boot-starter-actuator,"add","","unknown",2016-08-21T02:07:30Z
+org.springframework.bootspring-boot-starter-freemarker,"add","","unknown",2016-08-21T02:07:30Z
+org.apache.commonscommons-collections4,"add","","4.1",2016-08-24T07:03:17Z
+net.sf.opencsvopencsv,"add","","2.3",2016-08-24T07:03:17Z

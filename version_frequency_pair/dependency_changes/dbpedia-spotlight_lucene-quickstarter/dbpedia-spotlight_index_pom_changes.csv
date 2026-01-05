@@ -1,0 +1,16 @@
+library,type,old_version,new_version,commit_date
+org.openrdfrio,"remove","unknown","",2016-02-17T00:02:50Z
+org.dbpedia.extractioncore,"remove","unknown","",2016-02-17T00:02:50Z
+org.apache.lucenelucene-phonetic,"remove","unknown","",2016-02-17T00:02:50Z
+org.apache.commonscommons-compress,"remove","unknown","",2016-02-17T00:02:50Z
+wekaweka,"remove","unknown","",2016-02-17T00:02:50Z
+org.codehaus.jacksonjackson-core-asl,"remove","unknown","",2016-02-17T00:02:50Z
+org.apache.lucenelucene-queries,"remove","unknown","",2016-02-17T00:02:50Z
+org.apache.lucenelucene-core,"remove","unknown","",2016-02-17T00:02:50Z
+jdbmjdbm,"remove","unknown","",2016-02-15T16:35:23Z
+commons-iocommons-io,"remove","unknown","",2016-02-17T00:02:50Z
+trovetrove,"remove","unknown","",2016-02-17T00:02:50Z
+org.apache.mahoutmahout-collections,"remove","unknown","",2016-02-17T00:02:50Z
+org.apache.lucenelucene-misc,"remove","unknown","",2016-02-17T00:02:50Z
+org.apache.lucenelucene-analyzers,"remove","unknown","",2016-02-17T00:02:50Z
+com.esotericsoftware.kryokryo,"remove","unknown","",2016-02-17T00:02:50Z

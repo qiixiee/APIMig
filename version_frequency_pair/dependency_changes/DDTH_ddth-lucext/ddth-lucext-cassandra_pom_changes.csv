@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+com.datastax.cassandracassandra-driver-core,"remove","${version.cassandra_driver}","",2019-06-03T15:27:29Z
+com.github.ddthddth-lucext-core,"update","1.0.0","1.0.1-SNAPSHOT",2019-06-03T15:31:39Z
+com.github.ddthddth-lucext-core,"update","0.2.1-SNAPSHOT","1.0.0",2019-06-03T15:31:27Z
+com.github.ddthddth-lucext-core,"update","0.2.0","0.2.1-SNAPSHOT",2018-11-01T06:06:00Z
+com.github.ddthddth-lucext-core,"update","0.1.1-SNAPSHOT","0.2.0",2018-11-01T06:05:45Z
+com.github.ddthddth-lucext-core,"update","0.2.0","0.1.1-SNAPSHOT",2018-11-01T06:03:51Z
+com.github.ddthddth-lucext-core,"update","0.1.1-SNAPSHOT","0.2.0",2018-11-01T06:00:38Z
+com.github.ddthddth-lucext-core,"update","0.1.0","0.1.1-SNAPSHOT",2018-10-24T15:33:25Z
+com.github.ddthddth-lucext-core,"update","0.1.0-SNAPSHOT","0.1.0",2018-10-24T15:33:12Z
+com.datastax.ossjava-driver-query-builder,"add","","${version.datastax-oss}",2019-06-03T15:27:29Z
+com.datastax.ossjava-driver-core,"add","","${version.datastax-oss}",2019-06-03T15:27:29Z

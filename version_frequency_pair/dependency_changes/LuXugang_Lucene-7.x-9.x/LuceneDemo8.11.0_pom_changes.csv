@@ -1,0 +1,12 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-backward-codecs,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z
+org.apache.lucenelucene-queries,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z
+org.apache.lucenelucene-grouping,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z
+org.apache.lucenelucene-core,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z
+org.apache.lucenelucene-codecs,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z
+org.apache.lucenelucene-highlighter,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z
+org.apache.lucenelucene-memory,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z
+org.apache.lucenelucene-facet,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z
+org.apache.lucenelucene-analyzers-common,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z
+org.apache.lucenelucene-misc,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z
+org.apache.lucenelucene-queryparser,"update","8.11.0","8.10.0",2022-07-06T14:30:48Z

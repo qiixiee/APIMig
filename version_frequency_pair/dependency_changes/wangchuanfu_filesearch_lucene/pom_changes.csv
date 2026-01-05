@@ -1,0 +1,10 @@
+library,type,old_version,new_version,commit_date
+org.apache.lucenelucene-queries,"update","7.0.0","7.2.0",2017-12-27T09:57:28Z
+org.apache.lucenelucene-core,"update","7.0.0","7.2.0",2017-12-27T09:57:28Z
+org.apache.lucenelucene-suggest,"update","7.0.0","7.2.0",2017-12-27T09:57:28Z
+org.apache.lucenelucene-highlighter,"update","7.0.0","7.2.0",2017-12-27T09:57:28Z
+org.apache.lucenelucene-analyzers-smartcn,"update","7.0.0","7.2.0",2017-12-27T09:57:28Z
+org.apache.lucenelucene-analyzers-kuromoji,"update","7.0.0","7.2.0",2017-12-27T09:57:28Z
+org.apache.lucenelucene-memory,"update","7.0.0","7.2.0",2017-12-27T09:57:28Z
+org.apache.lucenelucene-analyzers-common,"update","7.0.0","7.2.0",2017-12-27T09:57:28Z
+org.apache.lucenelucene-queryparser,"update","7.0.0","7.2.0",2017-12-27T09:57:28Z

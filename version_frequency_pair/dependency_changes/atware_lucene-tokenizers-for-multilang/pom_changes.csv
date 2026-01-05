@@ -1,0 +1,4 @@
+library,type,old_version,new_version,commit_date
+commons-langcommons-lang,"add","","2.6",2014-04-14T06:39:58Z
+org.apache.solrsolr-core,"remove","4.2.1","",2014-04-14T06:39:58Z
+org.apache.lucenelucene-analyzers-common,"add","","4.6.1",2014-04-14T06:39:58Z
