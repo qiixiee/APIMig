@@ -1,0 +1,24 @@
+{
+  "name": "construct-project-graph",
+  "version": "1.0.0",
+  "description": "Build a heterogeneous dependency graph for Java projects with Tree-sitter.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "java-project-graph": "./src/cli.js"
+  },
+  "scripts": {
+    "build:graph": "node ./src/cli.js",
+    "demo": "node ./src/cli.js ./examples/Sample.java"
+  },
+  "keywords": [
+    "tree-sitter",
+    "java",
+    "graph"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "tree-sitter": "^0.21.1",
+    "tree-sitter-java": "^0.23.5"
+  }
+}

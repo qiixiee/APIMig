@@ -1,0 +1,7 @@
+{
+  "granularity": "Class/Interface",
+  "scope": "Name",
+  "target": {
+    "qualifiedName": "demo.shared.Collaborator"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "changes": [
+    {
+      "granularity": "Class/Interface",
+      "scope": "Name",
+      "target": {
+        "qualifiedName": "demo.shared.Collaborator"
+      }
+    },
+    {
+      "granularity": "Method/Constructor",
+      "scope": "Overall",
+      "target": {
+        "signature": "demo.shared.BaseService.format(String)"
+      }
+    }
+  ]
+}

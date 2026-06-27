@@ -1,0 +1,13 @@
+{
+  "libraryName": "demo.shared",
+  "sourceVersion": "1.0.0",
+  "targetVersion": "2.0.0",
+  "changeInformation": "The method demo.shared.BaseService.format(String) is changed. The caller should adapt the affected parameter preparation, callsite, and return value usage statements.",
+  "changeSpec": {
+    "granularity": "Method/Constructor",
+    "scope": "Overall",
+    "target": {
+      "signature": "demo.shared.BaseService.format(String)"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "granularity": "Constant/Variable",
+  "scope": "Value",
+  "target": {
+    "name": "result",
+    "ownerQualifiedName": "demo.app.ReportService",
+    "filePath": "ReportService.java",
+    "variableKind": "local"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "granularity": "Method/Constructor",
+  "scope": "Overall",
+  "target": {
+    "kind": "method",
+    "ownerQualifiedName": "demo.shared.BaseService",
+    "name": "format",
+    "paramCount": 1
+  }
+}

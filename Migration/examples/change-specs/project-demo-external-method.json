@@ -1,0 +1,7 @@
+{
+  "granularity": "Method/Constructor",
+  "scope": "Name",
+  "target": {
+    "signature": "java.io.PrintStream.println(String)"
+  }
+}
